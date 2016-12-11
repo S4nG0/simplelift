@@ -1,0 +1,365 @@
+0000.003 (0) Opened log file at time: Sat, 03 Dec 2016 12:42:46 +0000 on http://localhost/wordpress
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.23 WP: 4.6.1 PHP: 5.6.25 (apache2handler, Windows NT MED-PC 10.0 build 14393 (Windows 10) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 55.1M | 56M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.008 (0) Free space on disk containing Updraft's temporary directory: 14443.9 MB
+0000.021 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.022 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.094 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1480282771, seconds_ago=486195)
+0000.097 (0) Set semaphore last lock (fd) time to 2016-12-03 12:42:46
+0000.098 (0) Semaphore lock (fd) complete
+0000.104 (0) Backup run: resumption=0, nonce=5c6b8215e889, begun at=1480768966 (0s ago), job type=backup
+0000.107 (0) Scheduling a resumption (1) after 300 seconds (1480769266) in case this run gets aborted
+0000.116 (0) Checking if we have a zip executable available
+0000.119 (0) Creation of backups of directories: beginning
+0000.128 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0004.708 (0) Total entities for the zip file: 883 directories, 5010 files (0 skipped as non-modified), 55.9 MB
+0004.730 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0004.821 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 100 files added (on-disk size: 172.7 KB)
+0004.905 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 200 files added (on-disk size: 172.7 KB)
+0005.015 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 300 files added (on-disk size: 172.7 KB)
+0005.131 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 400 files added (on-disk size: 172.7 KB)
+0005.244 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 500 files added (on-disk size: 172.7 KB)
+0005.248 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.9 MB, 5010 files batched, 501 (502) added so far); re-opening (prior size: 172.7 KB)
+0010.312 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 600 files added (on-disk size: 1920 KB)
+0010.406 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 700 files added (on-disk size: 1920 KB)
+0010.492 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 800 files added (on-disk size: 1920 KB)
+0010.612 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 900 files added (on-disk size: 1920 KB)
+0010.706 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 1000 files added (on-disk size: 1920 KB)
+0010.710 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.8 MB, 5010 files batched, 501 (1003) added so far); re-opening (prior size: 1920 KB)
+0015.593 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 1100 files added (on-disk size: 5995.4 KB)
+0015.699 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 1200 files added (on-disk size: 5995.4 KB)
+0015.808 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 1300 files added (on-disk size: 5995.4 KB)
+0015.932 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 1400 files added (on-disk size: 5995.4 KB)
+0016.047 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 1500 files added (on-disk size: 5995.4 KB)
+0016.054 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8 MB, 5010 files batched, 501 (1504) added so far); re-opening (prior size: 5995.4 KB)
+0020.764 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 1600 files added (on-disk size: 9983.7 KB)
+0020.866 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 1700 files added (on-disk size: 9983.7 KB)
+0020.964 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 1800 files added (on-disk size: 9983.7 KB)
+0021.057 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 1900 files added (on-disk size: 9983.7 KB)
+0021.152 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 2000 files added (on-disk size: 9983.7 KB)
+0021.159 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.3 MB, 5010 files batched, 501 (2005) added so far); re-opening (prior size: 9983.7 KB)
+0026.962 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 2100 files added (on-disk size: 11515.5 KB)
+0027.109 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 2200 files added (on-disk size: 11515.5 KB)
+0027.242 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 2300 files added (on-disk size: 11515.5 KB)
+0027.367 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 2400 files added (on-disk size: 11515.5 KB)
+0027.528 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 2500 files added (on-disk size: 11515.5 KB)
+0027.540 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.2 MB, 5010 files batched, 501 (2506) added so far); re-opening (prior size: 11515.5 KB)
+0032.996 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 2600 files added (on-disk size: 14040.6 KB)
+0033.146 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 2700 files added (on-disk size: 14040.6 KB)
+0033.283 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 2800 files added (on-disk size: 14040.6 KB)
+0033.415 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 2900 files added (on-disk size: 14040.6 KB)
+0033.550 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 3000 files added (on-disk size: 14040.6 KB)
+0033.561 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.4 MB, 5010 files batched, 501 (3007) added so far); re-opening (prior size: 14040.6 KB)
+0038.066 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 3100 files added (on-disk size: 16191.6 KB)
+0038.161 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 3200 files added (on-disk size: 16191.6 KB)
+0038.258 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 3300 files added (on-disk size: 16191.6 KB)
+0038.356 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 3400 files added (on-disk size: 16191.6 KB)
+0038.443 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 3500 files added (on-disk size: 16191.6 KB)
+0038.452 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.7 MB, 5010 files batched, 501 (3508) added so far); re-opening (prior size: 16191.6 KB)
+0042.735 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 3600 files added (on-disk size: 18656.9 KB)
+0042.833 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 3700 files added (on-disk size: 18656.9 KB)
+0042.935 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 3800 files added (on-disk size: 18656.9 KB)
+0043.050 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 3900 files added (on-disk size: 18656.9 KB)
+0043.205 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 4000 files added (on-disk size: 18656.9 KB)
+0043.220 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.9 MB, 5010 files batched, 501 (4009) added so far); re-opening (prior size: 18656.9 KB)
+0049.918 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 4100 files added (on-disk size: 20429.7 KB)
+0050.056 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 4200 files added (on-disk size: 20429.7 KB)
+0050.210 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 4300 files added (on-disk size: 20429.7 KB)
+0050.391 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 4400 files added (on-disk size: 20429.7 KB)
+0050.539 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 4500 files added (on-disk size: 20429.7 KB)
+0050.557 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.7 MB, 5010 files batched, 501 (4510) added so far); re-opening (prior size: 20429.7 KB)
+0055.891 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 4600 files added (on-disk size: 21104 KB)
+0055.999 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 4700 files added (on-disk size: 21104 KB)
+0056.106 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 4800 files added (on-disk size: 21104 KB)
+0056.231 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 4900 files added (on-disk size: 21104 KB)
+0056.357 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip.tmp: 5000 files added (on-disk size: 21104 KB)
+0060.553 (0) Created plugins zip (0) - 24726.6 KB in 60.4 s (409.3 KB/s) (SHA1 checksum: 2512b3c1b66dbacb1d217afa2d51eaba07fc8491)
+0060.562 (0) Beginning creation of dump of themes (split every: 400 MB)
+0060.875 (0) Total entities for the zip file: 71 directories, 516 files (0 skipped as non-modified), 12.4 MB
+0060.944 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0061.020 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0061.092 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0061.162 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0061.245 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0061.248 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.4 MB, 516 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0067.333 (0) Created themes zip (0) - 8769 KB in 6.8 s (1297.5 KB/s) (SHA1 checksum: 23cccdbfe1b3a09bb07ee27ec325bb3c633198c0)
+0067.342 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0067.344 (0) Looking for candidates to back up in: C:\wamp64\www\wordpress/wp-content/uploads
+0067.345 (0) finding files: 2016: adding to list (1)
+0067.347 (0) finding files: ithemes-security: adding to list (2)
+0067.348 (0) finding files: mc4wp-debug-log.php: adding to list (3)
+0067.349 (0) finding files: smp_plain_popup.html: adding to list (4)
+0067.351 (0) finding files: smp_popup.html: adding to list (5)
+0067.353 (0) finding files: squirrly: adding to list (6)
+0067.354 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0067.410 (0) Total entities for the zip file: 9 directories, 102 files (0 skipped as non-modified), 5.3 MB
+0067.461 (0) Zip: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0068.011 (0) Created uploads zip (0) - 5358.6 KB in 0.6 s (8327.9 KB/s) (SHA1 checksum: 028c98d14fed6b8a5701bf6cbbaf4699b7e36382)
+0068.019 (0) Beginning backup of other directories found in the content directory (index: 0)
+0068.020 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0068.022 (0) Looking for candidates to back up in: C:\wamp64\www\wordpress/wp-content
+0068.023 (0) finding files: index.php: adding to list (1)
+0068.025 (0) finding files: languages: adding to list (2)
+0068.026 (0) finding files: ngg: adding to list (3)
+0068.027 (0) finding files: plugins: skipping: this is the plugins directory
+0068.029 (0) finding files: themes: skipping: this is the themes directory
+0068.030 (0) finding files: updraft: skipping: this is the updraft directory
+0068.031 (0) finding files: upgrade: skipping: excluded by options
+0068.032 (0) finding files: uploads: skipping: this is the uploads directory
+0068.034 (0) finding files: wflogs: adding to list (4)
+0068.104 (0) Total entities for the zip file: 30 directories, 48 files (0 skipped as non-modified), 3.6 MB
+0068.492 (0) Created others zip (0) - 1046.6 KB in 0.4 s (2343.8 KB/s) (SHA1 checksum: dc7de5ab0ab59679ac64480dda0f10ccfc762919)
+0068.504 (0) Saving backup status to database (elements: 8)
+0068.507 (0) Beginning creation of database dump (WordPress DB)
+0068.624 (0) Table wp_options: Total expected rows (approximate): 407
+0068.665 (0) Table wp_options: Total rows added: 404 in 0.04 seconds
+0068.671 (0) Table wp_options: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_options.table.gz - 79.4 KB)
+0068.678 (0) Table wp_users: Total expected rows (approximate): 3
+0068.682 (0) Table wp_users: Total rows added: 3 in 0.00 seconds
+0068.686 (0) Table wp_users: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_users.table.gz - 0.7 KB)
+0068.694 (0) Table wp_usermeta: Total expected rows (approximate): 51
+0068.698 (0) Table wp_usermeta: Total rows added: 51 in 0.00 seconds
+0068.703 (0) Table wp_usermeta: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_usermeta.table.gz - 1.5 KB)
+0068.710 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0068.713 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0068.717 (0) Table wp_commentmeta: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0068.725 (0) Table wp_comments: Total expected rows (approximate): 1
+0068.728 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0068.732 (0) Table wp_comments: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_comments.table.gz - 0.8 KB)
+0068.743 (0) Table wp_links: Total expected rows (approximate): 0
+0068.746 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0068.750 (0) Table wp_links: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_links.table.gz - 0.4 KB)
+0068.758 (0) Table wp_postmeta: Total expected rows (approximate): 371
+0068.777 (0) Table wp_postmeta: Total rows added: 371 in 0.02 seconds
+0068.782 (0) Table wp_postmeta: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_postmeta.table.gz - 8.6 KB)
+0068.789 (0) Table wp_posts: Total expected rows (approximate): 87
+0068.814 (0) Table wp_posts: Total rows added: 87 in 0.02 seconds
+0068.819 (0) Table wp_posts: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_posts.table.gz - 11.1 KB)
+0068.826 (0) Table wp_term_relationships: Total expected rows (approximate): 19
+0068.830 (0) Table wp_term_relationships: Total rows added: 19 in 0.00 seconds
+0068.834 (0) Table wp_term_relationships: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0068.841 (0) Table wp_term_taxonomy: Total expected rows (approximate): 12
+0068.844 (0) Table wp_term_taxonomy: Total rows added: 12 in 0.00 seconds
+0068.849 (0) Table wp_term_taxonomy: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0068.856 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0068.859 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0068.863 (0) Table wp_termmeta: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_termmeta.table.gz - 0.4 KB)
+0068.870 (0) Table wp_terms: Total expected rows (approximate): 12
+0068.874 (0) Table wp_terms: Total rows added: 12 in 0.00 seconds
+0068.878 (0) Table wp_terms: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_terms.table.gz - 0.6 KB)
+0068.889 (0) Table wp_itsec_lockouts: Total expected rows (approximate): 0
+0068.892 (0) Table wp_itsec_lockouts: Total rows added: 0 in 0.00 seconds
+0068.896 (0) Table wp_itsec_lockouts: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_itsec_lockouts.table.gz - 0.4 KB)
+0068.909 (0) Table wp_itsec_log: Total expected rows (approximate): 1
+0068.912 (0) Table wp_itsec_log: Total rows added: 1 in 0.00 seconds
+0068.916 (0) Table wp_itsec_log: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_itsec_log.table.gz - 0.6 KB)
+0068.927 (0) Table wp_itsec_temp: Total expected rows (approximate): 0
+0068.929 (0) Table wp_itsec_temp: Total rows added: 0 in 0.00 seconds
+0068.934 (0) Table wp_itsec_temp: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_itsec_temp.table.gz - 0.4 KB)
+0068.944 (0) Table wp_ngg_album: Total expected rows (approximate): 0
+0068.947 (0) Table wp_ngg_album: Total rows added: 0 in 0.00 seconds
+0068.951 (0) Table wp_ngg_album: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_ngg_album.table.gz - 0.4 KB)
+0068.962 (0) Table wp_ngg_gallery: Total expected rows (approximate): 0
+0068.965 (0) Table wp_ngg_gallery: Total rows added: 0 in 0.00 seconds
+0068.969 (0) Table wp_ngg_gallery: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_ngg_gallery.table.gz - 0.4 KB)
+0068.981 (0) Table wp_ngg_pictures: Total expected rows (approximate): 0
+0068.985 (0) Table wp_ngg_pictures: Total rows added: 0 in 0.00 seconds
+0068.989 (0) Table wp_ngg_pictures: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_ngg_pictures.table.gz - 0.5 KB)
+0068.997 (0) Table wp_subscribe_reloaded_subscribers: Total expected rows (approximate): 0
+0069.000 (0) Table wp_subscribe_reloaded_subscribers: Total rows added: 0 in 0.00 seconds
+0069.005 (0) Table wp_subscribe_reloaded_subscribers: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_subscribe_reloaded_subscribers.table.gz - 0.4 KB)
+0069.015 (0) Table wp_wfbadleechers: Total expected rows (approximate): 0
+0069.018 (0) Table wp_wfbadleechers: Total rows added: 0 in 0.00 seconds
+0069.022 (0) Table wp_wfbadleechers: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfbadleechers.table.gz - 0.3 KB)
+0069.032 (0) Table wp_wfblockediplog: Total expected rows (approximate): 0
+0069.035 (0) Table wp_wfblockediplog: Total rows added: 0 in 0.00 seconds
+0069.039 (0) Table wp_wfblockediplog: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfblockediplog.table.gz - 0.3 KB)
+0069.050 (0) Table wp_wfblocks: Total expected rows (approximate): 0
+0069.053 (0) Table wp_wfblocks: Total rows added: 0 in 0.00 seconds
+0069.057 (0) Table wp_wfblocks: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfblocks.table.gz - 0.3 KB)
+0069.067 (0) Table wp_wfblocksadv: Total expected rows (approximate): 0
+0069.070 (0) Table wp_wfblocksadv: Total rows added: 0 in 0.00 seconds
+0069.074 (0) Table wp_wfblocksadv: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfblocksadv.table.gz - 0.3 KB)
+0069.088 (0) Table wp_wfconfig: Total expected rows (approximate): 111
+0069.096 (0) Table wp_wfconfig: Total rows added: 111 in 0.01 seconds
+0069.101 (0) Table wp_wfconfig: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfconfig.table.gz - 1.6 KB)
+0069.111 (0) Table wp_wfcrawlers: Total expected rows (approximate): 0
+0069.114 (0) Table wp_wfcrawlers: Total rows added: 0 in 0.00 seconds
+0069.118 (0) Table wp_wfcrawlers: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfcrawlers.table.gz - 0.3 KB)
+0069.128 (0) Table wp_wffilemods: Total expected rows (approximate): 0
+0069.131 (0) Table wp_wffilemods: Total rows added: 0 in 0.00 seconds
+0069.135 (0) Table wp_wffilemods: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wffilemods.table.gz - 0.3 KB)
+0069.148 (0) Table wp_wfhits: Total expected rows (approximate): 1
+0069.152 (0) Table wp_wfhits: Total rows added: 1 in 0.00 seconds
+0069.156 (0) Table wp_wfhits: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfhits.table.gz - 0.6 KB)
+0069.166 (0) Table wp_wfhoover: Total expected rows (approximate): 0
+0069.169 (0) Table wp_wfhoover: Total rows added: 0 in 0.00 seconds
+0069.173 (0) Table wp_wfhoover: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfhoover.table.gz - 0.3 KB)
+0069.184 (0) Table wp_wfissues: Total expected rows (approximate): 0
+0069.187 (0) Table wp_wfissues: Total rows added: 0 in 0.00 seconds
+0069.191 (0) Table wp_wfissues: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfissues.table.gz - 0.3 KB)
+0069.202 (0) Table wp_wfleechers: Total expected rows (approximate): 0
+0069.204 (0) Table wp_wfleechers: Total rows added: 0 in 0.00 seconds
+0069.208 (0) Table wp_wfleechers: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfleechers.table.gz - 0.3 KB)
+0069.219 (0) Table wp_wflockedout: Total expected rows (approximate): 0
+0069.222 (0) Table wp_wflockedout: Total rows added: 0 in 0.00 seconds
+0069.226 (0) Table wp_wflockedout: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wflockedout.table.gz - 0.3 KB)
+0069.237 (0) Table wp_wflocs: Total expected rows (approximate): 0
+0069.240 (0) Table wp_wflocs: Total rows added: 0 in 0.00 seconds
+0069.244 (0) Table wp_wflocs: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wflocs.table.gz - 0.3 KB)
+0069.254 (0) Table wp_wflogins: Total expected rows (approximate): 0
+0069.257 (0) Table wp_wflogins: Total rows added: 0 in 0.00 seconds
+0069.262 (0) Table wp_wflogins: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wflogins.table.gz - 0.4 KB)
+0069.274 (0) Table wp_wfnet404s: Total expected rows (approximate): 1
+0069.277 (0) Table wp_wfnet404s: Total rows added: 1 in 0.00 seconds
+0069.282 (0) Table wp_wfnet404s: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfnet404s.table.gz - 0.4 KB)
+0069.292 (0) Table wp_wfreversecache: Total expected rows (approximate): 0
+0069.295 (0) Table wp_wfreversecache: Total rows added: 0 in 0.00 seconds
+0069.299 (0) Table wp_wfreversecache: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfreversecache.table.gz - 0.3 KB)
+0069.311 (0) Table wp_wfscanners: Total expected rows (approximate): 1
+0069.314 (0) Table wp_wfscanners: Total rows added: 1 in 0.00 seconds
+0069.319 (0) Table wp_wfscanners: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfscanners.table.gz - 0.3 KB)
+0069.330 (0) Table wp_wfstatus: Total expected rows (approximate): 0
+0069.332 (0) Table wp_wfstatus: Total rows added: 0 in 0.00 seconds
+0069.337 (0) Table wp_wfstatus: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfstatus.table.gz - 0.3 KB)
+0069.347 (0) Table wp_wfthrottlelog: Total expected rows (approximate): 0
+0069.350 (0) Table wp_wfthrottlelog: Total rows added: 0 in 0.00 seconds
+0069.354 (0) Table wp_wfthrottlelog: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfthrottlelog.table.gz - 0.3 KB)
+0069.365 (0) Table wp_wfvulnscanners: Total expected rows (approximate): 0
+0069.367 (0) Table wp_wfvulnscanners: Total rows added: 0 in 0.00 seconds
+0069.372 (0) Table wp_wfvulnscanners: finishing file (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfvulnscanners.table.gz - 0.3 KB)
+0069.378 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_options.table.gz (1/39): adding to final database dump
+0069.399 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_users.table.gz (2/39): adding to final database dump
+0069.401 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_usermeta.table.gz (3/39): adding to final database dump
+0069.403 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_commentmeta.table.gz (4/39): adding to final database dump
+0069.405 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_comments.table.gz (5/39): adding to final database dump
+0069.407 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_links.table.gz (6/39): adding to final database dump
+0069.409 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_postmeta.table.gz (7/39): adding to final database dump
+0069.416 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_posts.table.gz (8/39): adding to final database dump
+0069.421 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_term_relationships.table.gz (9/39): adding to final database dump
+0069.423 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_term_taxonomy.table.gz (10/39): adding to final database dump
+0069.425 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_termmeta.table.gz (11/39): adding to final database dump
+0069.426 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_terms.table.gz (12/39): adding to final database dump
+0069.428 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_itsec_lockouts.table.gz (13/39): adding to final database dump
+0069.430 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_itsec_log.table.gz (14/39): adding to final database dump
+0069.432 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_itsec_temp.table.gz (15/39): adding to final database dump
+0069.434 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_ngg_album.table.gz (16/39): adding to final database dump
+0069.437 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_ngg_gallery.table.gz (17/39): adding to final database dump
+0069.439 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_ngg_pictures.table.gz (18/39): adding to final database dump
+0069.441 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_subscribe_reloaded_subscribers.table.gz (19/39): adding to final database dump
+0069.443 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfbadleechers.table.gz (20/39): adding to final database dump
+0069.444 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfblockediplog.table.gz (21/39): adding to final database dump
+0069.446 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfblocks.table.gz (22/39): adding to final database dump
+0069.448 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfblocksadv.table.gz (23/39): adding to final database dump
+0069.450 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfconfig.table.gz (24/39): adding to final database dump
+0069.453 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfcrawlers.table.gz (25/39): adding to final database dump
+0069.455 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wffilemods.table.gz (26/39): adding to final database dump
+0069.456 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfhits.table.gz (27/39): adding to final database dump
+0069.458 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfhoover.table.gz (28/39): adding to final database dump
+0069.460 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfissues.table.gz (29/39): adding to final database dump
+0069.462 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfleechers.table.gz (30/39): adding to final database dump
+0069.463 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wflockedout.table.gz (31/39): adding to final database dump
+0069.465 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wflocs.table.gz (32/39): adding to final database dump
+0069.467 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wflogins.table.gz (33/39): adding to final database dump
+0069.469 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfnet404s.table.gz (34/39): adding to final database dump
+0069.471 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfreversecache.table.gz (35/39): adding to final database dump
+0069.472 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfscanners.table.gz (36/39): adding to final database dump
+0069.474 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfstatus.table.gz (37/39): adding to final database dump
+0069.476 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfthrottlelog.table.gz (38/39): adding to final database dump
+0069.477 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db-table-wp_wfvulnscanners.table.gz (39/39): adding to final database dump
+0069.483 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db.gz: finished writing out complete database file (96 KB)
+0069.498 (0) Total database tables backed up: 39 (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db.gz, size: 108365, checksum (SHA1): ecec57f49204100f628e9b19992ea9db3f320843)
+0069.506 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0069.507 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0069.509 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0069.510 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-others.zip: others: This file has not yet been successfully uploaded: will queue
+0069.511 (0) backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db.gz: db: This file has not yet been successfully uploaded: will queue
+0069.513 (0) Saving backup history. Total backup size: 39.1 MB
+0069.516 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0069.520 (0) Cloud backup selection (1/1): dropbox (last)
+0069.522 (0) Beginning dispatch of backup to remote (dropbox)
+0069.523 (0) Dropbox: begin cloud upload (using OAuth v2 token)
+0069.530 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0070.711 (0) Dropbox quota usage: normal=119.6 MB, shared=0 MB, total=2048 MB, available=1928.4 MB
+0070.713 (0) Dropbox: Attempt to upload: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip to: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip
+0073.793 (0) Dropbox chunked upload: 4.1 % uploaded (AAAAAAAAAB6sfRMGZEiGIw, 1048576, 2560 KB)
+0080.230 (0) Dropbox chunked upload: 14.5 % uploaded (AAAAAAAAAB6sfRMGZEiGIw, 3670016, 3072 KB)
+0088.244 (0) Dropbox chunked upload: 26.9 % uploaded (AAAAAAAAAB6sfRMGZEiGIw, 6815744, 3072 KB)
+0096.228 (0) Dropbox chunked upload: 39.3 % uploaded (AAAAAAAAAB6sfRMGZEiGIw, 9961472, 3072 KB)
+0103.675 (0) Dropbox chunked upload: 51.8 % uploaded (AAAAAAAAAB6sfRMGZEiGIw, 13107200, 3584 KB)
+0112.855 (0) Dropbox chunked upload: 66.3 % uploaded (AAAAAAAAAB6sfRMGZEiGIw, 16777216, 3072 KB)
+0120.061 (0) Dropbox chunked upload: 78.7 % uploaded (AAAAAAAAAB6sfRMGZEiGIw, 19922944, 3584 KB)
+0129.156 (0) Dropbox chunked upload: 93.2 % uploaded (AAAAAAAAAB6sfRMGZEiGIw, 23592960, 3072 KB)
+0134.450 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAB6sfRMGZEiGIw, 25319988, 3072 KB)
+0135.749 (0) Recording as successfully uploaded: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip (b85540cba354f016bba3815abc9d53b4)
+0135.764 (0) Deleting local file: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip: OK
+0135.766 (0) Dropbox: File upload success (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-plugins.zip): 24726 KB in 65s (380 KB/s)
+0137.754 (0) Dropbox quota usage: normal=143.8 MB, shared=0 MB, total=2048 MB, available=1904.2 MB
+0137.758 (0) Dropbox: Attempt to upload: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-themes.zip to: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-themes.zip
+0145.038 (0) Dropbox chunked upload: 35 % uploaded (AAAAAAAAAB8Dfp9c9K0lSw, 3145728, 3584 KB)
+0154.575 (0) Dropbox chunked upload: 75.9 % uploaded (AAAAAAAAAB8Dfp9c9K0lSw, 6815744, 3072 KB)
+0161.169 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAB8Dfp9c9K0lSw, 8979415, 3072 KB)
+0162.830 (0) Recording as successfully uploaded: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-themes.zip (ec2d0d45b06878933ea87fe9a5846107)
+0162.843 (0) Deleting local file: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-themes.zip: OK
+0162.846 (0) Dropbox: File upload success (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-themes.zip): 8768 KB in 25s (349 KB/s)
+0163.794 (0) Dropbox quota usage: normal=152.3 MB, shared=0 MB, total=2048 MB, available=1895.7 MB
+0163.798 (0) Dropbox: Attempt to upload: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-uploads.zip to: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-uploads.zip
+0171.250 (0) Dropbox chunked upload: 57.3 % uploaded (AAAAAAAAACCKZc3bdVrBmQ, 3145728, 3584 KB)
+0178.607 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAACCKZc3bdVrBmQ, 5487188, 3584 KB)
+0180.396 (0) Recording as successfully uploaded: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-uploads.zip (cc8ff231110bdf2312aea7adf5af8f50)
+0180.408 (0) Deleting local file: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-uploads.zip: OK
+0180.411 (0) Dropbox: File upload success (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-uploads.zip): 5358 KB in 16s (322 KB/s)
+0181.455 (0) Dropbox quota usage: normal=157.6 MB, shared=0 MB, total=2048 MB, available=1890.4 MB
+0181.459 (0) Dropbox: Attempt to upload: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-others.zip to: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-others.zip
+0184.591 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAACGdh4btKIR-zg, 1071748, 3584 KB)
+0186.127 (0) Recording as successfully uploaded: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-others.zip (646af5840a4c60b7b01584b3fa9ab8f3)
+0186.138 (0) Deleting local file: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-others.zip: OK
+0186.141 (0) Dropbox: File upload success (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-others.zip): 1046 KB in 4s (223 KB/s)
+0187.193 (0) Dropbox quota usage: normal=158.6 MB, shared=0 MB, total=2048 MB, available=1889.4 MB
+0187.197 (0) Dropbox: Attempt to upload: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db.gz to: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db.gz
+0188.545 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAACJzbp9oG6R7sA, 108365, 3584 KB)
+0189.938 (0) Recording as successfully uploaded: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db.gz (8690846fcfc44474b850f233e5b8ee63)
+0189.948 (0) Deleting local file: backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db.gz: OK
+0189.952 (0) Dropbox: File upload success (backup_2016-12-03-1342_BlogMusculation_5c6b8215e889-db.gz): 105 KB in 2s (38 KB/s)
+0189.960 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+0189.965 (0) Number of backup sets in history: 7; groups (db): 1
+0189.970 (0) Examining (for databases) backup set with group_id=0, nonce=5c6b8215e889, datestamp=1480768966 (Dec 03 2016 12:42:46)
+0189.972 (0) This backup set is the backup set just made, so will not be deleted.
+0189.974 (0) Examining (for databases) backup set with group_id=0, nonce=c428cae5fb53, datestamp=1480282771 (Nov 27 2016 21:39:31)
+0189.976 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0189.978 (0) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+0189.980 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0189.981 (0) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+0189.982 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0189.984 (0) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+0189.986 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0189.987 (0) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0189.989 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0189.990 (0) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0189.992 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0189.993 (0) Number of backup sets in history: 7; groups (files): 1
+0189.995 (0) Examining (for files) backup set with nonce=5c6b8215e889, datestamp=1480768966 (Dec 03 2016 12:42:46)
+0189.996 (0) This backup set is the backup set just made, so will not be deleted.
+0189.997 (0) This backup set is the backup set just made, so will not be deleted.
+0189.998 (0) This backup set is the backup set just made, so will not be deleted.
+0189.998 (0) This backup set is the backup set just made, so will not be deleted.
+0189.999 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.000 (0) Examining (for files) backup set with nonce=c428cae5fb53, datestamp=1480282771 (Nov 27 2016 21:39:31)
+0190.002 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.003 (0) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+0190.005 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.006 (0) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+0190.007 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.008 (0) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+0190.010 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.011 (0) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0190.013 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.014 (0) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0190.015 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.017 (0) Retain: saving new backup history (sets now: 7) and finishing retain operation
+0190.022 (0) Resume backup (5c6b8215e889, 0): finish run
+0190.024 (0) Decremented the semaphore (fd) by 1
+0190.026 (0) Semaphore (fd) unlocked
+0190.028 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0190.032 (0) The backup apparently succeeded and is now complete
+0190.034 (0) No email will/can be sent - the user has not configured an email address.
+0190.035 (0) La sauvegarde a manifestement réussie et est maintenant terminée.

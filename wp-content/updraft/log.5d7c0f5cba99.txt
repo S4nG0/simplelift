@@ -1,0 +1,692 @@
+0000.001 (0) Opened log file at time: Fri, 07 Oct 2016 20:28:43 +0000 on http://localhost/wordpress
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.20 WP: 4.6.1 PHP: 5.6.25 (Windows NT LAPTOP 10.0 build 10586 (Windows 10) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 56.4M | 57M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 127145.9 MB
+0000.010 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.017 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.020 (0) Set semaphore last lock (fd) time to 2016-10-07 20:28:43
+0000.022 (0) Semaphore lock (fd) complete
+0000.031 (0) Backup run: resumption=0, nonce=5d7c0f5cba99, begun at=1475872123 (0s ago), job type=backup
+0000.034 (0) Scheduling a resumption (1) after 300 seconds (1475872423) in case this run gets aborted
+0000.049 (0) Checking if we have a zip executable available
+0000.053 (0) Creation of backups of directories: beginning
+0000.060 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.147 (0) Total entities for the zip file: 457 directories, 2848 files (0 skipped as non-modified), 34.5 MB
+0003.157 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.226 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 100 files added (on-disk size: 87.4 KB)
+0003.316 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 200 files added (on-disk size: 87.4 KB)
+0003.432 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 300 files added (on-disk size: 87.4 KB)
+0003.533 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 400 files added (on-disk size: 87.4 KB)
+0003.635 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 500 files added (on-disk size: 87.4 KB)
+0003.639 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.8 MB, 2848 files batched, 501 (502) added so far); re-opening (prior size: 87.4 KB)
+0004.076 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 600 files added (on-disk size: 1195.8 KB)
+0004.170 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 700 files added (on-disk size: 1195.8 KB)
+0004.261 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 800 files added (on-disk size: 1195.8 KB)
+0004.371 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 900 files added (on-disk size: 1195.8 KB)
+0004.523 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 1000 files added (on-disk size: 1195.8 KB)
+0004.530 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.2 MB, 2848 files batched, 501 (1003) added so far); re-opening (prior size: 1195.8 KB)
+0005.855 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 1100 files added (on-disk size: 3725.7 KB)
+0006.069 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 1200 files added (on-disk size: 3725.7 KB)
+0006.206 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 1300 files added (on-disk size: 3725.7 KB)
+0006.370 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 1400 files added (on-disk size: 3725.7 KB)
+0006.517 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 1500 files added (on-disk size: 3725.7 KB)
+0006.522 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.5 MB, 2848 files batched, 501 (1504) added so far); re-opening (prior size: 3725.7 KB)
+0007.217 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 1600 files added (on-disk size: 5927 KB)
+0007.305 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 1700 files added (on-disk size: 5927 KB)
+0007.391 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 1800 files added (on-disk size: 5927 KB)
+0007.482 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 1900 files added (on-disk size: 5927 KB)
+0007.586 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 2000 files added (on-disk size: 5927 KB)
+0007.592 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.5 MB, 2848 files batched, 501 (2005) added so far); re-opening (prior size: 5927 KB)
+0008.815 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 2100 files added (on-disk size: 9095.4 KB)
+0009.023 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 2200 files added (on-disk size: 9095.4 KB)
+0009.232 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 2300 files added (on-disk size: 9095.4 KB)
+0009.407 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 2400 files added (on-disk size: 9095.4 KB)
+0009.587 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 2500 files added (on-disk size: 9095.4 KB)
+0009.599 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.8 MB, 2848 files batched, 501 (2506) added so far); re-opening (prior size: 9095.4 KB)
+0010.817 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 2600 files added (on-disk size: 11793.4 KB)
+0010.976 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 2700 files added (on-disk size: 11793.4 KB)
+0011.145 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip.tmp: 2800 files added (on-disk size: 11793.4 KB)
+0011.503 (0) Created plugins zip (0) - 12154.5 KB in 11.4 s (1062.7 KB/s) (SHA1 checksum: f22046ee7184f38f4dacca9f47640d3613265d7a)
+0011.511 (0) Beginning creation of dump of themes (split every: 400 MB)
+0011.704 (0) Total entities for the zip file: 49 directories, 388 files (0 skipped as non-modified), 7.5 MB
+0011.758 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0011.830 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0011.912 (0) Zip: backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0012.817 (0) Created themes zip (0) - 4916 KB in 1.3 s (3783.8 KB/s) (SHA1 checksum: 9016bb6d715c29a1faddd80e5d9b15ec8abb92cb)
+0012.828 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0012.831 (0) Looking for candidates to back up in: D:\Wamp\www\wordpress/wp-content/uploads
+0012.833 (0) finding files: 2016: adding to list (1)
+0012.835 (0) finding files: ithemes-security: adding to list (2)
+0012.837 (0) finding files: mc4wp-debug.log: adding to list (3)
+0012.839 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0012.881 (0) Total entities for the zip file: 6 directories, 64 files (0 skipped as non-modified), 4 MB
+0013.191 (0) Created uploads zip (0) - 4025.2 KB in 0.3 s (11700.9 KB/s) (SHA1 checksum: 0e9b8acdc59bde04f1b6efaafa0fa105056c0e4e)
+0013.202 (0) Beginning backup of other directories found in the content directory (index: 0)
+0013.204 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0013.206 (0) Looking for candidates to back up in: D:\Wamp\www\wordpress/wp-content
+0013.209 (0) finding files: index.php: adding to list (1)
+0013.212 (0) finding files: languages: adding to list (2)
+0013.214 (0) finding files: ngg: adding to list (3)
+0013.217 (0) finding files: plugins: skipping: this is the plugins directory
+0013.220 (0) finding files: themes: skipping: this is the themes directory
+0013.222 (0) finding files: updraft: skipping: this is the updraft directory
+0013.224 (0) finding files: upgrade: skipping: excluded by options
+0013.226 (0) finding files: uploads: skipping: this is the uploads directory
+0013.228 (0) finding files: wflogs: adding to list (4)
+0013.268 (0) Total entities for the zip file: 30 directories, 36 files (0 skipped as non-modified), 2.6 MB
+0013.592 (0) Created others zip (0) - 758 KB in 0.4 s (2122 KB/s) (SHA1 checksum: 1a76d1681a8d3b78f0cd5f67c9e242d9776db1b2)
+0013.604 (0) Saving backup status to database (elements: 8)
+0013.608 (0) Beginning creation of database dump (WordPress DB)
+0013.632 (0) Table wp_options: Total expected rows (approximate): 269
+0013.672 (0) Table wp_options: Total rows added: 265 in 0.04 seconds
+0013.674 (0) Table wp_options: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_options.table.gz - 54.4 KB)
+0013.685 (0) Table wp_users: Total expected rows (approximate): 3
+0013.690 (0) Table wp_users: Total rows added: 3 in 0.00 seconds
+0013.692 (0) Table wp_users: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_users.table.gz - 0.7 KB)
+0013.702 (0) Table wp_usermeta: Total expected rows (approximate): 49
+0013.709 (0) Table wp_usermeta: Total rows added: 49 in 0.00 seconds
+0013.711 (0) Table wp_usermeta: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_usermeta.table.gz - 1.5 KB)
+0013.721 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0013.725 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0013.727 (0) Table wp_commentmeta: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0013.736 (0) Table wp_comments: Total expected rows (approximate): 1
+0013.741 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0013.743 (0) Table wp_comments: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_comments.table.gz - 0.8 KB)
+0013.753 (0) Table wp_links: Total expected rows (approximate): 0
+0013.757 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0013.760 (0) Table wp_links: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_links.table.gz - 0.4 KB)
+0013.771 (0) Table wp_postmeta: Total expected rows (approximate): 270
+0013.805 (0) Table wp_postmeta: Total rows added: 270 in 0.03 seconds
+0013.808 (0) Table wp_postmeta: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_postmeta.table.gz - 6.3 KB)
+0013.822 (0) Table wp_posts: Total expected rows (approximate): 54
+0013.856 (0) Table wp_posts: Total rows added: 54 in 0.03 seconds
+0013.858 (0) Table wp_posts: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_posts.table.gz - 7.1 KB)
+0013.868 (0) Table wp_term_relationships: Total expected rows (approximate): 11
+0013.872 (0) Table wp_term_relationships: Total rows added: 11 in 0.00 seconds
+0013.874 (0) Table wp_term_relationships: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0013.884 (0) Table wp_term_taxonomy: Total expected rows (approximate): 5
+0013.889 (0) Table wp_term_taxonomy: Total rows added: 5 in 0.00 seconds
+0013.892 (0) Table wp_term_taxonomy: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0013.901 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0013.905 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0013.907 (0) Table wp_termmeta: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_termmeta.table.gz - 0.4 KB)
+0013.918 (0) Table wp_terms: Total expected rows (approximate): 5
+0013.921 (0) Table wp_terms: Total rows added: 5 in 0.00 seconds
+0013.924 (0) Table wp_terms: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_terms.table.gz - 0.5 KB)
+0013.933 (0) Table wp_itsec_lockouts: Total expected rows (approximate): 0
+0013.937 (0) Table wp_itsec_lockouts: Total rows added: 0 in 0.00 seconds
+0013.939 (0) Table wp_itsec_lockouts: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_itsec_lockouts.table.gz - 0.4 KB)
+0013.948 (0) Table wp_itsec_log: Total expected rows (approximate): 1
+0013.953 (0) Table wp_itsec_log: Total rows added: 1 in 0.00 seconds
+0013.955 (0) Table wp_itsec_log: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_itsec_log.table.gz - 0.6 KB)
+0013.964 (0) Table wp_itsec_temp: Total expected rows (approximate): 0
+0013.968 (0) Table wp_itsec_temp: Total rows added: 0 in 0.00 seconds
+0013.970 (0) Table wp_itsec_temp: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_itsec_temp.table.gz - 0.4 KB)
+0013.980 (0) Table wp_ngg_album: Total expected rows (approximate): 0
+0013.983 (0) Table wp_ngg_album: Total rows added: 0 in 0.00 seconds
+0013.985 (0) Table wp_ngg_album: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_ngg_album.table.gz - 0.4 KB)
+0013.995 (0) Table wp_ngg_gallery: Total expected rows (approximate): 0
+0013.999 (0) Table wp_ngg_gallery: Total rows added: 0 in 0.00 seconds
+0014.001 (0) Table wp_ngg_gallery: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_ngg_gallery.table.gz - 0.4 KB)
+0014.010 (0) Table wp_ngg_pictures: Total expected rows (approximate): 0
+0014.014 (0) Table wp_ngg_pictures: Total rows added: 0 in 0.00 seconds
+0014.017 (0) Table wp_ngg_pictures: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_ngg_pictures.table.gz - 0.5 KB)
+0014.026 (0) Table wp_wfbadleechers: Total expected rows (approximate): 0
+0014.029 (0) Table wp_wfbadleechers: Total rows added: 0 in 0.00 seconds
+0014.031 (0) Table wp_wfbadleechers: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfbadleechers.table.gz - 0.3 KB)
+0014.041 (0) Table wp_wfblockediplog: Total expected rows (approximate): 0
+0014.044 (0) Table wp_wfblockediplog: Total rows added: 0 in 0.00 seconds
+0014.047 (0) Table wp_wfblockediplog: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfblockediplog.table.gz - 0.3 KB)
+0014.056 (0) Table wp_wfblocks: Total expected rows (approximate): 0
+0014.060 (0) Table wp_wfblocks: Total rows added: 0 in 0.00 seconds
+0014.062 (0) Table wp_wfblocks: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfblocks.table.gz - 0.3 KB)
+0014.072 (0) Table wp_wfblocksadv: Total expected rows (approximate): 0
+0014.076 (0) Table wp_wfblocksadv: Total rows added: 0 in 0.00 seconds
+0014.078 (0) Table wp_wfblocksadv: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfblocksadv.table.gz - 0.3 KB)
+0014.088 (0) Table wp_wfconfig: Total expected rows (approximate): 111
+0014.098 (0) Table wp_wfconfig: Total rows added: 111 in 0.01 seconds
+0014.101 (0) Table wp_wfconfig: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfconfig.table.gz - 1.6 KB)
+0014.112 (0) Table wp_wfcrawlers: Total expected rows (approximate): 0
+0014.115 (0) Table wp_wfcrawlers: Total rows added: 0 in 0.00 seconds
+0014.117 (0) Table wp_wfcrawlers: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfcrawlers.table.gz - 0.3 KB)
+0014.127 (0) Table wp_wffilemods: Total expected rows (approximate): 0
+0014.130 (0) Table wp_wffilemods: Total rows added: 0 in 0.00 seconds
+0014.133 (0) Table wp_wffilemods: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wffilemods.table.gz - 0.3 KB)
+0014.143 (0) Table wp_wfhits: Total expected rows (approximate): 1
+0014.147 (0) Table wp_wfhits: Total rows added: 1 in 0.00 seconds
+0014.149 (0) Table wp_wfhits: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfhits.table.gz - 0.6 KB)
+0014.159 (0) Table wp_wfhoover: Total expected rows (approximate): 0
+0014.162 (0) Table wp_wfhoover: Total rows added: 0 in 0.00 seconds
+0014.165 (0) Table wp_wfhoover: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfhoover.table.gz - 0.3 KB)
+0014.174 (0) Table wp_wfissues: Total expected rows (approximate): 0
+0014.180 (0) Table wp_wfissues: Total rows added: 0 in 0.00 seconds
+0014.183 (0) Table wp_wfissues: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfissues.table.gz - 0.3 KB)
+0014.192 (0) Table wp_wfleechers: Total expected rows (approximate): 0
+0014.196 (0) Table wp_wfleechers: Total rows added: 0 in 0.00 seconds
+0014.200 (0) Table wp_wfleechers: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfleechers.table.gz - 0.3 KB)
+0014.209 (0) Table wp_wflockedout: Total expected rows (approximate): 0
+0014.213 (0) Table wp_wflockedout: Total rows added: 0 in 0.00 seconds
+0014.215 (0) Table wp_wflockedout: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wflockedout.table.gz - 0.3 KB)
+0014.225 (0) Table wp_wflocs: Total expected rows (approximate): 0
+0014.228 (0) Table wp_wflocs: Total rows added: 0 in 0.00 seconds
+0014.231 (0) Table wp_wflocs: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wflocs.table.gz - 0.3 KB)
+0014.240 (0) Table wp_wflogins: Total expected rows (approximate): 0
+0014.243 (0) Table wp_wflogins: Total rows added: 0 in 0.00 seconds
+0014.246 (0) Table wp_wflogins: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wflogins.table.gz - 0.4 KB)
+0014.255 (0) Table wp_wfnet404s: Total expected rows (approximate): 1
+0014.259 (0) Table wp_wfnet404s: Total rows added: 1 in 0.00 seconds
+0014.261 (0) Table wp_wfnet404s: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfnet404s.table.gz - 0.4 KB)
+0014.270 (0) Table wp_wfreversecache: Total expected rows (approximate): 0
+0014.274 (0) Table wp_wfreversecache: Total rows added: 0 in 0.00 seconds
+0014.276 (0) Table wp_wfreversecache: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfreversecache.table.gz - 0.3 KB)
+0014.285 (0) Table wp_wfscanners: Total expected rows (approximate): 1
+0014.290 (0) Table wp_wfscanners: Total rows added: 1 in 0.00 seconds
+0014.292 (0) Table wp_wfscanners: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfscanners.table.gz - 0.3 KB)
+0014.305 (0) Table wp_wfstatus: Total expected rows (approximate): 0
+0014.311 (0) Table wp_wfstatus: Total rows added: 0 in 0.00 seconds
+0014.315 (0) Table wp_wfstatus: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfstatus.table.gz - 0.3 KB)
+0014.332 (0) Table wp_wfthrottlelog: Total expected rows (approximate): 0
+0014.336 (0) Table wp_wfthrottlelog: Total rows added: 0 in 0.00 seconds
+0014.339 (0) Table wp_wfthrottlelog: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfthrottlelog.table.gz - 0.3 KB)
+0014.352 (0) Table wp_wfvulnscanners: Total expected rows (approximate): 0
+0014.357 (0) Table wp_wfvulnscanners: Total rows added: 0 in 0.00 seconds
+0014.360 (0) Table wp_wfvulnscanners: finishing file (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfvulnscanners.table.gz - 0.3 KB)
+0014.371 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_options.table.gz (1/38): adding to final database dump
+0014.392 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_users.table.gz (2/38): adding to final database dump
+0014.395 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_usermeta.table.gz (3/38): adding to final database dump
+0014.399 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_commentmeta.table.gz (4/38): adding to final database dump
+0014.402 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_comments.table.gz (5/38): adding to final database dump
+0014.406 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_links.table.gz (6/38): adding to final database dump
+0014.408 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_postmeta.table.gz (7/38): adding to final database dump
+0014.416 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_posts.table.gz (8/38): adding to final database dump
+0014.420 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_term_relationships.table.gz (9/38): adding to final database dump
+0014.423 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_term_taxonomy.table.gz (10/38): adding to final database dump
+0014.425 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_termmeta.table.gz (11/38): adding to final database dump
+0014.428 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_terms.table.gz (12/38): adding to final database dump
+0014.430 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_itsec_lockouts.table.gz (13/38): adding to final database dump
+0014.433 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_itsec_log.table.gz (14/38): adding to final database dump
+0014.436 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_itsec_temp.table.gz (15/38): adding to final database dump
+0014.438 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_ngg_album.table.gz (16/38): adding to final database dump
+0014.440 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_ngg_gallery.table.gz (17/38): adding to final database dump
+0014.443 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_ngg_pictures.table.gz (18/38): adding to final database dump
+0014.446 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfbadleechers.table.gz (19/38): adding to final database dump
+0014.448 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfblockediplog.table.gz (20/38): adding to final database dump
+0014.450 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfblocks.table.gz (21/38): adding to final database dump
+0014.452 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfblocksadv.table.gz (22/38): adding to final database dump
+0014.455 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfconfig.table.gz (23/38): adding to final database dump
+0014.459 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfcrawlers.table.gz (24/38): adding to final database dump
+0014.461 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wffilemods.table.gz (25/38): adding to final database dump
+0014.463 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfhits.table.gz (26/38): adding to final database dump
+0014.466 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfhoover.table.gz (27/38): adding to final database dump
+0014.468 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfissues.table.gz (28/38): adding to final database dump
+0014.471 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfleechers.table.gz (29/38): adding to final database dump
+0014.473 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wflockedout.table.gz (30/38): adding to final database dump
+0014.476 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wflocs.table.gz (31/38): adding to final database dump
+0014.478 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wflogins.table.gz (32/38): adding to final database dump
+0014.480 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfnet404s.table.gz (33/38): adding to final database dump
+0014.483 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfreversecache.table.gz (34/38): adding to final database dump
+0014.485 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfscanners.table.gz (35/38): adding to final database dump
+0014.488 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfstatus.table.gz (36/38): adding to final database dump
+0014.490 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfthrottlelog.table.gz (37/38): adding to final database dump
+0014.493 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db-table-wp_wfvulnscanners.table.gz (38/38): adding to final database dump
+0014.497 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db.gz: finished writing out complete database file (48 KB)
+0014.522 (0) Total database tables backed up: 38 (backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db.gz, size: 75846, checksum (SHA1): 0edfbd864efc0d6bebc897517109d3534f99fbd1)
+0014.532 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0014.534 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0014.536 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0014.539 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-others.zip: others: This file has not yet been successfully uploaded: will queue
+0014.541 (0) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db.gz: db: This file has not yet been successfully uploaded: will queue
+0014.543 (0) Saving backup history. Total backup size: 21.4 MB
+0014.548 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0014.553 (0) Cloud backup selection (1/1): dropbox (last)
+0014.555 (0) Beginning dispatch of backup to remote (dropbox)
+0014.557 (0) Dropbox: begin cloud upload
+0015.848 (0) Request token expired. - need to reauthenticate this site with Dropbox (if this fails, then you can also try wiping your settings from the Expert Settings section)
+0016.943 (0) Dropbox reauthorisation needed; but we are running from cron, AJAX or the CLI, so this is not possible
+0016.947 (0) Dropbox Curl error: Vous devez vous ré-authentifier sur Dropbox, car les informations existantes ne fonctionnent pas.
+0016.948 (0) An error condition has occurred for the first time during this job
+0016.950 (0) Dropbox error when trying to gain access: Vous semblez ne pas être authentifié sur Dropbox (line: 108, file: D:\Wamp\www\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+0016.956 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0016.958 (0) Number of backup sets in history: 3; groups (db): 1
+0016.960 (0) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0016.962 (0) This backup set is the backup set just made, so will not be deleted.
+0016.964 (0) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0016.966 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0016.968 (0) Examining (for databases) backup set with group_id=0, nonce=0f1f63f399ba, datestamp=1474582176 (Sep 22 2016 22:09:36)
+0016.970 (0) 1474582176: db: this set includes a database (backup_2016-09-23-0009_SimpleLift_0f1f63f399ba-db.gz); db count is now 2
+0016.972 (0) 1474582176: db: over retain limit (2); will delete this database
+0016.975 (0) Delete file: backup_2016-09-23-0009_SimpleLift_0f1f63f399ba-db.gz, service=dropbox
+0016.978 (0) Deleting local copy (backup_2016-09-23-0009_SimpleLift_0f1f63f399ba-db.gz)
+0018.178 (0) invalid_request - need to reauthenticate this site with Dropbox (if this fails, then you can also try wiping your settings from the Expert Settings section)
+0020.179 (0) Dropbox reauthorisation needed; but we are running from cron, AJAX or the CLI, so this is not possible
+0020.189 (0) Dropbox Curl error: Vous devez vous ré-authentifier sur Dropbox, car les informations existantes ne fonctionnent pas.
+0020.202 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0020.206 (0) Number of backup sets in history: 3; groups (files): 1
+0020.209 (0) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0020.212 (0) This backup set is the backup set just made, so will not be deleted.
+0020.215 (0) This backup set is the backup set just made, so will not be deleted.
+0020.216 (0) This backup set is the backup set just made, so will not be deleted.
+0020.217 (0) This backup set is the backup set just made, so will not be deleted.
+0020.219 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.221 (0) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0020.224 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.227 (0) Examining (for files) backup set with nonce=0f1f63f399ba, datestamp=1474582176 (Sep 22 2016 22:09:36)
+0020.230 (0) plugins: over retain limit (2); will delete this file entity
+0020.232 (0) themes: over retain limit (2); will delete this file entity
+0020.235 (0) uploads: over retain limit (2); will delete this file entity
+0020.237 (0) others: over retain limit (2); will delete this file entity
+0020.238 (0) Delete file: backup_2016-09-23-0009_SimpleLift_0f1f63f399ba-plugins.zip, service=dropbox
+0020.240 (0) Deleting local copy (backup_2016-09-23-0009_SimpleLift_0f1f63f399ba-plugins.zip)
+0020.243 (0) Delete file: backup_2016-09-23-0009_SimpleLift_0f1f63f399ba-themes.zip, service=dropbox
+0020.245 (0) Deleting local copy (backup_2016-09-23-0009_SimpleLift_0f1f63f399ba-themes.zip)
+0020.248 (0) Delete file: backup_2016-09-23-0009_SimpleLift_0f1f63f399ba-uploads.zip, service=dropbox
+0020.250 (0) Deleting local copy (backup_2016-09-23-0009_SimpleLift_0f1f63f399ba-uploads.zip)
+0020.252 (0) Delete file: backup_2016-09-23-0009_SimpleLift_0f1f63f399ba-others.zip, service=dropbox
+0020.255 (0) Deleting local copy (backup_2016-09-23-0009_SimpleLift_0f1f63f399ba-others.zip)
+0021.361 (0) invalid_request - need to reauthenticate this site with Dropbox (if this fails, then you can also try wiping your settings from the Expert Settings section)
+0022.498 (0) Dropbox reauthorisation needed; but we are running from cron, AJAX or the CLI, so this is not possible
+0022.502 (0) Dropbox Curl error: Vous devez vous ré-authentifier sur Dropbox, car les informations existantes ne fonctionnent pas.
+0022.506 (0) This backup set is now empty; will remove from history
+0022.508 (0) Deleting log file (log.0f1f63f399ba.txt)
+0022.510 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0022.518 (0) Resume backup (5d7c0f5cba99, 0): finish run
+0022.522 (0) Decremented the semaphore (fd) by 1
+0022.526 (0) Semaphore (fd) unlocked
+0022.529 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0022.535 (0) Rescheduling resumption 1: moving to 120 seconds from now (1475872266)
+0022.539 (0) No email will/can be sent - the user has not configured an email address.
+0022.541 (0) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+0156.439 (1) Opened log file at time: Fri, 07 Oct 2016 20:31:20 +0000 on http://localhost/wordpress
+0156.441 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.20 WP: 4.6.1 PHP: 5.6.25 (Windows NT LAPTOP 10.0 build 10586 (Windows 10) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 46M | 47.5M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0156.443 (1) Free space on disk containing Updraft's temporary directory: 127150 MB
+0156.447 (1) Backup run: resumption=1, nonce=5d7c0f5cba99, begun at=1475872123 (157s ago), job type=backup, previous check-in=22.5s
+0156.451 (1) Scheduling a resumption (2) after 300 seconds (1475872580) in case this run gets aborted
+0156.463 (1) Checking if we have a zip executable available
+0156.465 (1) Creation of backups of directories: already finished
+0156.469 (1) Saving backup status to database (elements: 8)
+0156.473 (1) Database dump (WordPress DB): Creation was completed already
+0156.481 (1) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0156.484 (1) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0156.486 (1) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0156.488 (1) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-others.zip: others: This file has not yet been successfully uploaded: will queue
+0156.489 (1) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db.gz: db: This file has not yet been successfully uploaded: will queue
+0156.491 (1) Saving backup history. Total backup size: 21.4 MB
+0156.495 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0156.500 (1) Cloud backup selection (1/1): dropbox (last)
+0156.503 (1) Beginning dispatch of backup to remote (dropbox)
+0156.505 (1) Dropbox: begin cloud upload
+0157.871 (1) invalid_request - need to reauthenticate this site with Dropbox (if this fails, then you can also try wiping your settings from the Expert Settings section)
+0160.151 (1) Dropbox reauthorisation needed; but we are running from cron, AJAX or the CLI, so this is not possible
+0160.157 (1) Dropbox Curl error: Vous devez vous ré-authentifier sur Dropbox, car les informations existantes ne fonctionnent pas.
+0160.160 (1) An error condition has occurred for the first time during this job
+0160.162 (1) Dropbox error when trying to gain access: Vous semblez ne pas être authentifié sur Dropbox (line: 108, file: D:\Wamp\www\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+0160.167 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0160.169 (1) Number of backup sets in history: 2; groups (db): 1
+0160.171 (1) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0160.173 (1) This backup set is the backup set just made, so will not be deleted.
+0160.175 (1) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0160.178 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0160.180 (1) Number of backup sets in history: 2; groups (files): 1
+0160.181 (1) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0160.184 (1) This backup set is the backup set just made, so will not be deleted.
+0160.185 (1) This backup set is the backup set just made, so will not be deleted.
+0160.186 (1) This backup set is the backup set just made, so will not be deleted.
+0160.187 (1) This backup set is the backup set just made, so will not be deleted.
+0160.188 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0160.190 (1) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0160.193 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0160.195 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0160.200 (1) Resume backup (5d7c0f5cba99, 1): finish run
+0160.203 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0160.207 (1) No email will/can be sent - the user has not configured an email address.
+0160.210 (1) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+0460.601 (2) Opened log file at time: Fri, 07 Oct 2016 20:36:24 +0000 on http://localhost/wordpress
+0460.603 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.20 WP: 4.6.1 PHP: 5.6.25 (Windows NT LAPTOP 10.0 build 10586 (Windows 10) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 46M | 47.5M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0460.605 (2) Free space on disk containing Updraft's temporary directory: 127150 MB
+0460.608 (2) Backup run: resumption=2, nonce=5d7c0f5cba99, begun at=1475872123 (461s ago), job type=backup
+0460.612 (2) Scheduling a resumption (3) after 300 seconds (1475872884) in case this run gets aborted
+0460.626 (2) Checking if we have a zip executable available
+0460.628 (2) Creation of backups of directories: already finished
+0460.631 (2) Saving backup status to database (elements: 8)
+0460.635 (2) Database dump (WordPress DB): Creation was completed already
+0460.644 (2) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0460.647 (2) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0460.649 (2) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0460.651 (2) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-others.zip: others: This file has not yet been successfully uploaded: will queue
+0460.653 (2) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db.gz: db: This file has not yet been successfully uploaded: will queue
+0460.654 (2) Saving backup history. Total backup size: 21.4 MB
+0460.658 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+0460.662 (2) Cloud backup selection (1/1): dropbox (last)
+0460.666 (2) Beginning dispatch of backup to remote (dropbox)
+0460.668 (2) Dropbox: begin cloud upload
+0463.172 (2) invalid_request - need to reauthenticate this site with Dropbox (if this fails, then you can also try wiping your settings from the Expert Settings section)
+0464.393 (2) Dropbox reauthorisation needed; but we are running from cron, AJAX or the CLI, so this is not possible
+0464.404 (2) Dropbox Curl error: Vous devez vous ré-authentifier sur Dropbox, car les informations existantes ne fonctionnent pas.
+0464.411 (2) An error condition has occurred for the first time during this job
+0464.417 (2) Dropbox error when trying to gain access: Vous semblez ne pas être authentifié sur Dropbox (line: 108, file: D:\Wamp\www\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+0464.425 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0464.430 (2) Number of backup sets in history: 2; groups (db): 1
+0464.434 (2) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0464.437 (2) This backup set is the backup set just made, so will not be deleted.
+0464.441 (2) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0464.445 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0464.447 (2) Number of backup sets in history: 2; groups (files): 1
+0464.449 (2) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0464.451 (2) This backup set is the backup set just made, so will not be deleted.
+0464.454 (2) This backup set is the backup set just made, so will not be deleted.
+0464.455 (2) This backup set is the backup set just made, so will not be deleted.
+0464.456 (2) This backup set is the backup set just made, so will not be deleted.
+0464.457 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0464.459 (2) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0464.462 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0464.464 (2) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0464.469 (2) Resume backup (5d7c0f5cba99, 2): finish run
+0464.471 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0464.476 (2) No email will/can be sent - the user has not configured an email address.
+0464.477 (2) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+0761.923 (3) Opened log file at time: Fri, 07 Oct 2016 20:41:25 +0000 on http://localhost/wordpress
+0761.926 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.20 WP: 4.6.1 PHP: 5.6.25 (Windows NT LAPTOP 10.0 build 10586 (Windows 10) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 46M | 47.5M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0761.928 (3) Free space on disk containing Updraft's temporary directory: 127149.9 MB
+0761.931 (3) Backup run: resumption=3, nonce=5d7c0f5cba99, begun at=1475872123 (762s ago), job type=backup
+0761.934 (3) Scheduling a resumption (4) after 300 seconds (1475873185) in case this run gets aborted
+0761.945 (3) Checking if we have a zip executable available
+0761.947 (3) Creation of backups of directories: already finished
+0761.950 (3) Saving backup status to database (elements: 8)
+0761.954 (3) Database dump (WordPress DB): Creation was completed already
+0761.962 (3) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0761.964 (3) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0761.966 (3) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0761.968 (3) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-others.zip: others: This file has not yet been successfully uploaded: will queue
+0761.970 (3) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db.gz: db: This file has not yet been successfully uploaded: will queue
+0761.971 (3) Saving backup history. Total backup size: 21.4 MB
+0761.975 (3) Requesting upload of the files that have not yet been successfully uploaded (5)
+0761.978 (3) Cloud backup selection (1/1): dropbox (last)
+0761.982 (3) Beginning dispatch of backup to remote (dropbox)
+0761.984 (3) Dropbox: begin cloud upload
+0763.133 (3) invalid_request - need to reauthenticate this site with Dropbox (if this fails, then you can also try wiping your settings from the Expert Settings section)
+0764.297 (3) Dropbox reauthorisation needed; but we are running from cron, AJAX or the CLI, so this is not possible
+0764.301 (3) Dropbox Curl error: Vous devez vous ré-authentifier sur Dropbox, car les informations existantes ne fonctionnent pas.
+0764.303 (3) An error condition has occurred for the first time during this job
+0764.305 (3) Dropbox error when trying to gain access: Vous semblez ne pas être authentifié sur Dropbox (line: 108, file: D:\Wamp\www\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+0764.310 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0764.313 (3) Number of backup sets in history: 2; groups (db): 1
+0764.315 (3) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0764.317 (3) This backup set is the backup set just made, so will not be deleted.
+0764.320 (3) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0764.322 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+0764.324 (3) Number of backup sets in history: 2; groups (files): 1
+0764.326 (3) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0764.328 (3) This backup set is the backup set just made, so will not be deleted.
+0764.330 (3) This backup set is the backup set just made, so will not be deleted.
+0764.331 (3) This backup set is the backup set just made, so will not be deleted.
+0764.332 (3) This backup set is the backup set just made, so will not be deleted.
+0764.333 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+0764.335 (3) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0764.338 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+0764.340 (3) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0764.345 (3) Resume backup (5d7c0f5cba99, 3): finish run
+0764.348 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0764.352 (3) No email will/can be sent - the user has not configured an email address.
+0764.354 (3) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+1145.676 (4) Opened log file at time: Fri, 07 Oct 2016 20:47:49 +0000 on http://localhost/wordpress
+1145.678 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.20 WP: 4.6.1 PHP: 5.6.25 (Windows NT LAPTOP 10.0 build 10586 (Windows 10) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 46M | 47.5M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+1145.680 (4) Free space on disk containing Updraft's temporary directory: 127149.9 MB
+1145.684 (4) Backup run: resumption=4, nonce=5d7c0f5cba99, begun at=1475872123 (1146s ago), job type=backup
+1145.687 (4) Scheduling a resumption (5) after 300 seconds (1475873569) in case this run gets aborted
+1145.698 (4) Checking if we have a zip executable available
+1145.700 (4) Creation of backups of directories: already finished
+1145.702 (4) Saving backup status to database (elements: 8)
+1145.706 (4) Database dump (WordPress DB): Creation was completed already
+1145.718 (4) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1145.720 (4) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1145.722 (4) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1145.723 (4) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-others.zip: others: This file has not yet been successfully uploaded: will queue
+1145.726 (4) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db.gz: db: This file has not yet been successfully uploaded: will queue
+1145.728 (4) Saving backup history. Total backup size: 21.4 MB
+1145.731 (4) Requesting upload of the files that have not yet been successfully uploaded (5)
+1145.735 (4) Cloud backup selection (1/1): dropbox (last)
+1145.738 (4) Beginning dispatch of backup to remote (dropbox)
+1145.740 (4) Dropbox: begin cloud upload
+1146.969 (4) invalid_request - need to reauthenticate this site with Dropbox (if this fails, then you can also try wiping your settings from the Expert Settings section)
+1148.160 (4) Dropbox reauthorisation needed; but we are running from cron, AJAX or the CLI, so this is not possible
+1148.171 (4) Dropbox Curl error: Vous devez vous ré-authentifier sur Dropbox, car les informations existantes ne fonctionnent pas.
+1148.177 (4) An error condition has occurred for the first time during this job
+1148.184 (4) Dropbox error when trying to gain access: Vous semblez ne pas être authentifié sur Dropbox (line: 108, file: D:\Wamp\www\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+1148.194 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1148.198 (4) Number of backup sets in history: 2; groups (db): 1
+1148.201 (4) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+1148.203 (4) This backup set is the backup set just made, so will not be deleted.
+1148.206 (4) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+1148.209 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1148.212 (4) Number of backup sets in history: 2; groups (files): 1
+1148.215 (4) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+1148.216 (4) This backup set is the backup set just made, so will not be deleted.
+1148.218 (4) This backup set is the backup set just made, so will not be deleted.
+1148.219 (4) This backup set is the backup set just made, so will not be deleted.
+1148.220 (4) This backup set is the backup set just made, so will not be deleted.
+1148.220 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1148.222 (4) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+1148.224 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1148.225 (4) Retain: saving new backup history (sets now: 2) and finishing retain operation
+1148.230 (4) Resume backup (5d7c0f5cba99, 4): finish run
+1148.232 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1148.235 (4) No email will/can be sent - the user has not configured an email address.
+1148.237 (4) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+1447.482 (5) Opened log file at time: Fri, 07 Oct 2016 20:52:51 +0000 on http://localhost/wordpress
+1447.485 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.20 WP: 4.6.1 PHP: 5.6.25 (Windows NT LAPTOP 10.0 build 10586 (Windows 10) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 46M | 47.5M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+1447.487 (5) Free space on disk containing Updraft's temporary directory: 127149.9 MB
+1447.490 (5) Backup run: resumption=5, nonce=5d7c0f5cba99, begun at=1475872123 (1448s ago), job type=backup
+1447.493 (5) Scheduling a resumption (6) after 300 seconds (1475873871) in case this run gets aborted
+1447.506 (5) Checking if we have a zip executable available
+1447.508 (5) Creation of backups of directories: already finished
+1447.511 (5) Saving backup status to database (elements: 8)
+1447.514 (5) Database dump (WordPress DB): Creation was completed already
+1447.524 (5) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1447.526 (5) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1447.527 (5) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1447.529 (5) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-others.zip: others: This file has not yet been successfully uploaded: will queue
+1447.531 (5) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db.gz: db: This file has not yet been successfully uploaded: will queue
+1447.533 (5) Saving backup history. Total backup size: 21.4 MB
+1447.538 (5) Requesting upload of the files that have not yet been successfully uploaded (5)
+1447.542 (5) Cloud backup selection (1/1): dropbox (last)
+1447.546 (5) Beginning dispatch of backup to remote (dropbox)
+1447.547 (5) Dropbox: begin cloud upload
+1448.696 (5) invalid_request - need to reauthenticate this site with Dropbox (if this fails, then you can also try wiping your settings from the Expert Settings section)
+1449.797 (5) Dropbox reauthorisation needed; but we are running from cron, AJAX or the CLI, so this is not possible
+1449.805 (5) Dropbox Curl error: Vous devez vous ré-authentifier sur Dropbox, car les informations existantes ne fonctionnent pas.
+1449.810 (5) An error condition has occurred for the first time during this job
+1449.814 (5) Dropbox error when trying to gain access: Vous semblez ne pas être authentifié sur Dropbox (line: 108, file: D:\Wamp\www\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+1449.821 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1449.828 (5) Number of backup sets in history: 2; groups (db): 1
+1449.830 (5) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+1449.832 (5) This backup set is the backup set just made, so will not be deleted.
+1449.834 (5) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+1449.835 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1449.837 (5) Number of backup sets in history: 2; groups (files): 1
+1449.840 (5) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+1449.842 (5) This backup set is the backup set just made, so will not be deleted.
+1449.844 (5) This backup set is the backup set just made, so will not be deleted.
+1449.845 (5) This backup set is the backup set just made, so will not be deleted.
+1449.846 (5) This backup set is the backup set just made, so will not be deleted.
+1449.847 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1449.849 (5) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+1449.851 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1449.852 (5) Retain: saving new backup history (sets now: 2) and finishing retain operation
+1449.858 (5) Resume backup (5d7c0f5cba99, 5): finish run
+1449.860 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1449.864 (5) No email will/can be sent - the user has not configured an email address.
+1449.866 (5) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+1793.839 (6) Opened log file at time: Fri, 07 Oct 2016 20:58:37 +0000 on http://localhost/wordpress
+1793.841 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.20 WP: 4.6.1 PHP: 5.6.25 (Windows NT LAPTOP 10.0 build 10586 (Windows 10) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 46M | 47.5M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+1793.843 (6) Free space on disk containing Updraft's temporary directory: 127149.9 MB
+1793.847 (6) Backup run: resumption=6, nonce=5d7c0f5cba99, begun at=1475872123 (1794s ago), job type=backup
+1793.851 (6) Scheduling a resumption (7) after 300 seconds (1475874217) in case this run gets aborted
+1793.862 (6) Checking if we have a zip executable available
+1793.864 (6) Creation of backups of directories: already finished
+1793.868 (6) Saving backup status to database (elements: 8)
+1793.872 (6) Database dump (WordPress DB): Creation was completed already
+1793.880 (6) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1793.883 (6) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1793.885 (6) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1793.887 (6) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-others.zip: others: This file has not yet been successfully uploaded: will queue
+1793.889 (6) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db.gz: db: This file has not yet been successfully uploaded: will queue
+1793.891 (6) Saving backup history. Total backup size: 21.4 MB
+1793.895 (6) Requesting upload of the files that have not yet been successfully uploaded (5)
+1793.899 (6) Cloud backup selection (1/1): dropbox (last)
+1793.903 (6) Beginning dispatch of backup to remote (dropbox)
+1793.905 (6) Dropbox: begin cloud upload
+1795.298 (6) invalid_request - need to reauthenticate this site with Dropbox (if this fails, then you can also try wiping your settings from the Expert Settings section)
+1796.641 (6) Dropbox reauthorisation needed; but we are running from cron, AJAX or the CLI, so this is not possible
+1796.652 (6) Dropbox Curl error: Vous devez vous ré-authentifier sur Dropbox, car les informations existantes ne fonctionnent pas.
+1796.658 (6) An error condition has occurred for the first time during this job
+1796.663 (6) Dropbox error when trying to gain access: Vous semblez ne pas être authentifié sur Dropbox (line: 108, file: D:\Wamp\www\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+1796.669 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1796.673 (6) Number of backup sets in history: 2; groups (db): 1
+1796.675 (6) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+1796.678 (6) This backup set is the backup set just made, so will not be deleted.
+1796.681 (6) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+1796.683 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+1796.686 (6) Number of backup sets in history: 2; groups (files): 1
+1796.689 (6) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+1796.692 (6) This backup set is the backup set just made, so will not be deleted.
+1796.694 (6) This backup set is the backup set just made, so will not be deleted.
+1796.695 (6) This backup set is the backup set just made, so will not be deleted.
+1796.695 (6) This backup set is the backup set just made, so will not be deleted.
+1796.696 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+1796.698 (6) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+1796.700 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+1796.702 (6) Retain: saving new backup history (sets now: 2) and finishing retain operation
+1796.706 (6) Resume backup (5d7c0f5cba99, 6): finish run
+1796.708 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1796.712 (6) No email will/can be sent - the user has not configured an email address.
+1796.714 (6) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+2424.829 (7) Opened log file at time: Fri, 07 Oct 2016 21:09:08 +0000 on http://localhost/wordpress
+2424.832 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.20 WP: 4.6.1 PHP: 5.6.25 (Windows NT LAPTOP 10.0 build 10586 (Windows 10) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 46M | 47.5M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+2424.833 (7) Free space on disk containing Updraft's temporary directory: 127149.9 MB
+2424.837 (7) Backup run: resumption=7, nonce=5d7c0f5cba99, begun at=1475872123 (2425s ago), job type=backup
+2424.841 (7) Scheduling a resumption (8) after 300 seconds (1475874848) in case this run gets aborted
+2424.852 (7) Checking if we have a zip executable available
+2424.855 (7) Creation of backups of directories: already finished
+2424.858 (7) Saving backup status to database (elements: 8)
+2424.861 (7) Database dump (WordPress DB): Creation was completed already
+2424.870 (7) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2424.872 (7) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2424.874 (7) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2424.876 (7) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-others.zip: others: This file has not yet been successfully uploaded: will queue
+2424.878 (7) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db.gz: db: This file has not yet been successfully uploaded: will queue
+2424.880 (7) Saving backup history. Total backup size: 21.4 MB
+2424.884 (7) Requesting upload of the files that have not yet been successfully uploaded (5)
+2424.889 (7) Cloud backup selection (1/1): dropbox (last)
+2424.892 (7) Beginning dispatch of backup to remote (dropbox)
+2424.894 (7) Dropbox: begin cloud upload
+2426.013 (7) invalid_request - need to reauthenticate this site with Dropbox (if this fails, then you can also try wiping your settings from the Expert Settings section)
+2427.939 (7) Dropbox reauthorisation needed; but we are running from cron, AJAX or the CLI, so this is not possible
+2427.944 (7) Dropbox Curl error: Vous devez vous ré-authentifier sur Dropbox, car les informations existantes ne fonctionnent pas.
+2427.946 (7) An error condition has occurred for the first time during this job
+2427.948 (7) Dropbox error when trying to gain access: Vous semblez ne pas être authentifié sur Dropbox (line: 108, file: D:\Wamp\www\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+2427.953 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2427.956 (7) Number of backup sets in history: 2; groups (db): 1
+2427.958 (7) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+2427.960 (7) This backup set is the backup set just made, so will not be deleted.
+2427.962 (7) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+2427.964 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+2427.967 (7) Number of backup sets in history: 2; groups (files): 1
+2427.969 (7) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+2427.971 (7) This backup set is the backup set just made, so will not be deleted.
+2427.973 (7) This backup set is the backup set just made, so will not be deleted.
+2427.974 (7) This backup set is the backup set just made, so will not be deleted.
+2427.975 (7) This backup set is the backup set just made, so will not be deleted.
+2427.976 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+2427.978 (7) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+2427.980 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+2427.982 (7) Retain: saving new backup history (sets now: 2) and finishing retain operation
+2427.988 (7) Resume backup (5d7c0f5cba99, 7): finish run
+2427.991 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2427.996 (7) No email will/can be sent - the user has not configured an email address.
+2427.998 (7) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+3071.864 (8) Opened log file at time: Fri, 07 Oct 2016 21:19:55 +0000 on http://localhost/wordpress
+3071.866 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.20 WP: 4.6.1 PHP: 5.6.25 (Windows NT LAPTOP 10.0 build 10586 (Windows 10) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 46M | 47.5M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+3071.868 (8) Free space on disk containing Updraft's temporary directory: 127149.9 MB
+3071.872 (8) Backup run: resumption=8, nonce=5d7c0f5cba99, begun at=1475872123 (3072s ago), job type=backup
+3071.876 (8) Scheduling a resumption (9) after 300 seconds (1475875495) in case this run gets aborted
+3071.888 (8) Checking if we have a zip executable available
+3071.890 (8) Creation of backups of directories: already finished
+3071.893 (8) Saving backup status to database (elements: 8)
+3071.897 (8) Database dump (WordPress DB): Creation was completed already
+3071.906 (8) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+3071.909 (8) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+3071.911 (8) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+3071.913 (8) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-others.zip: others: This file has not yet been successfully uploaded: will queue
+3071.914 (8) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db.gz: db: This file has not yet been successfully uploaded: will queue
+3071.916 (8) Saving backup history. Total backup size: 21.4 MB
+3071.920 (8) Requesting upload of the files that have not yet been successfully uploaded (5)
+3071.924 (8) Cloud backup selection (1/1): dropbox (last)
+3071.928 (8) Beginning dispatch of backup to remote (dropbox)
+3071.930 (8) Dropbox: begin cloud upload
+3074.083 (8) invalid_request - need to reauthenticate this site with Dropbox (if this fails, then you can also try wiping your settings from the Expert Settings section)
+3075.235 (8) Dropbox reauthorisation needed; but we are running from cron, AJAX or the CLI, so this is not possible
+3075.239 (8) Dropbox Curl error: Vous devez vous ré-authentifier sur Dropbox, car les informations existantes ne fonctionnent pas.
+3075.241 (8) An error condition has occurred for the first time during this job
+3075.243 (8) Dropbox error when trying to gain access: Vous semblez ne pas être authentifié sur Dropbox (line: 108, file: D:\Wamp\www\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+3075.249 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+3075.251 (8) Number of backup sets in history: 2; groups (db): 1
+3075.253 (8) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+3075.255 (8) This backup set is the backup set just made, so will not be deleted.
+3075.257 (8) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+3075.259 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+3075.261 (8) Number of backup sets in history: 2; groups (files): 1
+3075.264 (8) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+3075.267 (8) This backup set is the backup set just made, so will not be deleted.
+3075.269 (8) This backup set is the backup set just made, so will not be deleted.
+3075.270 (8) This backup set is the backup set just made, so will not be deleted.
+3075.271 (8) This backup set is the backup set just made, so will not be deleted.
+3075.272 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+3075.274 (8) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+3075.276 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+3075.278 (8) Retain: saving new backup history (sets now: 2) and finishing retain operation
+3075.282 (8) Resume backup (5d7c0f5cba99, 8): finish run
+3075.284 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+3075.288 (8) No email will/can be sent - the user has not configured an email address.
+3075.290 (8) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+3388.911 (9) Opened log file at time: Fri, 07 Oct 2016 21:25:12 +0000 on http://localhost/wordpress
+3388.914 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.20 WP: 4.6.1 PHP: 5.6.25 (Windows NT LAPTOP 10.0 build 10586 (Windows 10) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 46M | 47.5M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+3388.916 (9) Free space on disk containing Updraft's temporary directory: 127149.9 MB
+3388.920 (9) Backup run: resumption=9, nonce=5d7c0f5cba99, begun at=1475872123 (3389s ago), job type=backup
+3388.924 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+3388.939 (9) Creation of backups of directories: already finished
+3388.944 (9) Saving backup status to database (elements: 8)
+3388.948 (9) Database dump (WordPress DB): Creation was completed already
+3388.958 (9) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+3388.960 (9) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+3388.963 (9) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+3388.965 (9) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-others.zip: others: This file has not yet been successfully uploaded: will queue
+3388.967 (9) backup_2016-10-07-2228_SimpleLift_5d7c0f5cba99-db.gz: db: This file has not yet been successfully uploaded: will queue
+3388.968 (9) Saving backup history. Total backup size: 21.4 MB
+3388.972 (9) Requesting upload of the files that have not yet been successfully uploaded (5)
+3388.976 (9) Cloud backup selection (1/1): dropbox (last)
+3388.980 (9) Beginning dispatch of backup to remote (dropbox)
+3388.983 (9) Dropbox: begin cloud upload
+3391.593 (9) invalid_request - need to reauthenticate this site with Dropbox (if this fails, then you can also try wiping your settings from the Expert Settings section)
+3392.712 (9) Dropbox reauthorisation needed; but we are running from cron, AJAX or the CLI, so this is not possible
+3392.723 (9) Dropbox Curl error: Vous devez vous ré-authentifier sur Dropbox, car les informations existantes ne fonctionnent pas.
+3392.729 (9) An error condition has occurred for the first time during this job
+3392.733 (9) Dropbox error when trying to gain access: Vous semblez ne pas être authentifié sur Dropbox (line: 108, file: D:\Wamp\www\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+3392.740 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+3392.744 (9) Number of backup sets in history: 2; groups (db): 1
+3392.747 (9) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+3392.750 (9) This backup set is the backup set just made, so will not be deleted.
+3392.752 (9) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+3392.754 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3392.756 (9) Number of backup sets in history: 2; groups (files): 1
+3392.757 (9) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+3392.759 (9) This backup set is the backup set just made, so will not be deleted.
+3392.761 (9) This backup set is the backup set just made, so will not be deleted.
+3392.762 (9) This backup set is the backup set just made, so will not be deleted.
+3392.762 (9) This backup set is the backup set just made, so will not be deleted.
+3392.763 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3392.765 (9) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+3392.767 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3392.769 (9) Retain: saving new backup history (sets now: 2) and finishing retain operation
+3392.773 (9) Resume backup (5d7c0f5cba99, 9): finish run
+3392.775 (9) There were errors in the uploads, so the 'resume' event is remaining scheduled
+3392.778 (9) No email will/can be sent - the user has not configured an email address.
+3392.780 (9) La tentative de sauvegarde est terminée, apparemment sans succès

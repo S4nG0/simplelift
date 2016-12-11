@@ -1,0 +1,1106 @@
+0000.002 (0) Opened log file at time: Sun, 27 Nov 2016 17:07:18 +0000 on http://localhost/wordpress
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.23 WP: 4.6.1 PHP: 5.6.25 (apache2handler, Windows NT MED-PC 6.1 build 7601 (Windows 7 Ultimate Edition Service Pack 1) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 57.8M | 58.8M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.015 (0) Free space on disk containing Updraft's temporary directory: 1664.2 MB
+0000.037 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB: 1 (schedule: daily)
+0000.057 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.068 (0) Set semaphore last lock (fd) time to 2016-11-27 17:07:18
+0000.074 (0) Semaphore lock (fd) complete
+0000.099 (0) Backup run: resumption=0, nonce=0effc242bd8c, begun at=1480266438 (0s ago), job type=backup
+0000.110 (0) Scheduling a resumption (1) after 300 seconds (1480266738) in case this run gets aborted
+0000.140 (0) Checking if we have a zip executable available
+0000.151 (0) Creation of backups of directories: beginning
+0000.174 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0007.330 (0) Total entities for the zip file: 883 directories, 5010 files (0 skipped as non-modified), 55.9 MB
+0007.356 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0007.467 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 100 files added (on-disk size: 172.7 KB)
+0007.560 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 200 files added (on-disk size: 172.7 KB)
+0007.675 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 300 files added (on-disk size: 172.7 KB)
+0007.796 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 400 files added (on-disk size: 172.7 KB)
+0007.913 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 500 files added (on-disk size: 172.7 KB)
+0007.919 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.9 MB, 5010 files batched, 501 (502) added so far); re-opening (prior size: 172.7 KB)
+0008.955 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 600 files added (on-disk size: 1920 KB)
+0009.061 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 700 files added (on-disk size: 1920 KB)
+0009.154 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 800 files added (on-disk size: 1920 KB)
+0009.258 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 900 files added (on-disk size: 1920 KB)
+0009.343 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 1000 files added (on-disk size: 1920 KB)
+0009.348 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.8 MB, 5010 files batched, 501 (1003) added so far); re-opening (prior size: 1920 KB)
+0010.840 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 1100 files added (on-disk size: 5995.4 KB)
+0011.025 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 1200 files added (on-disk size: 5995.4 KB)
+0011.210 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 1300 files added (on-disk size: 5995.4 KB)
+0011.412 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 1400 files added (on-disk size: 5995.4 KB)
+0011.601 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 1500 files added (on-disk size: 5995.4 KB)
+0011.612 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8 MB, 5010 files batched, 501 (1504) added so far); re-opening (prior size: 5995.4 KB)
+0014.533 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 1600 files added (on-disk size: 9983.7 KB)
+0014.791 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 1700 files added (on-disk size: 9983.7 KB)
+0015.186 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 1800 files added (on-disk size: 9983.7 KB)
+0015.537 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 1900 files added (on-disk size: 9983.7 KB)
+0015.823 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 2000 files added (on-disk size: 9983.7 KB)
+0015.845 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.3 MB, 5010 files batched, 501 (2005) added so far); re-opening (prior size: 9983.7 KB)
+0017.903 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 2100 files added (on-disk size: 11515.5 KB)
+0018.058 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 2200 files added (on-disk size: 11515.5 KB)
+0018.235 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 2300 files added (on-disk size: 11515.5 KB)
+0018.395 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 2400 files added (on-disk size: 11515.5 KB)
+0018.549 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 2500 files added (on-disk size: 11515.5 KB)
+0018.561 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.2 MB, 5010 files batched, 501 (2506) added so far); re-opening (prior size: 11515.5 KB)
+0021.284 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 2600 files added (on-disk size: 14040.6 KB)
+0021.785 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 2700 files added (on-disk size: 14040.6 KB)
+0022.190 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 2800 files added (on-disk size: 14040.6 KB)
+0022.525 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 2900 files added (on-disk size: 14040.6 KB)
+0022.855 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 3000 files added (on-disk size: 14040.6 KB)
+0022.881 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.4 MB, 5010 files batched, 501 (3007) added so far); re-opening (prior size: 14040.6 KB)
+0024.540 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 3100 files added (on-disk size: 16191.6 KB)
+0024.705 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 3200 files added (on-disk size: 16191.6 KB)
+0024.875 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 3300 files added (on-disk size: 16191.6 KB)
+0025.015 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 3400 files added (on-disk size: 16191.6 KB)
+0025.138 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 3500 files added (on-disk size: 16191.6 KB)
+0025.152 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.7 MB, 5010 files batched, 501 (3508) added so far); re-opening (prior size: 16191.6 KB)
+0027.130 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 3600 files added (on-disk size: 18656.9 KB)
+0027.368 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 3700 files added (on-disk size: 18656.9 KB)
+0027.609 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 3800 files added (on-disk size: 18656.9 KB)
+0027.891 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 3900 files added (on-disk size: 18656.9 KB)
+0028.253 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 4000 files added (on-disk size: 18656.9 KB)
+0028.286 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.9 MB, 5010 files batched, 501 (4009) added so far); re-opening (prior size: 18656.9 KB)
+0030.162 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 4100 files added (on-disk size: 20429.7 KB)
+0030.485 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 4200 files added (on-disk size: 20429.7 KB)
+0030.821 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 4300 files added (on-disk size: 20429.7 KB)
+0031.162 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 4400 files added (on-disk size: 20429.7 KB)
+0031.498 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 4500 files added (on-disk size: 20429.7 KB)
+0031.534 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.7 MB, 5010 files batched, 501 (4510) added so far); re-opening (prior size: 20429.7 KB)
+0032.826 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 4600 files added (on-disk size: 21104 KB)
+0033.080 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 4700 files added (on-disk size: 21104 KB)
+0033.330 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 4800 files added (on-disk size: 21104 KB)
+0033.623 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 4900 files added (on-disk size: 21104 KB)
+0033.919 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip.tmp: 5000 files added (on-disk size: 21104 KB)
+0035.399 (0) Created plugins zip (0) - 24726.6 KB in 35.2 s (702.4 KB/s) (SHA1 checksum: 1c2e5ad4e11d1d3869fe3d5bdbd7e48136415381)
+0035.419 (0) Beginning creation of dump of themes (split every: 400 MB)
+0035.975 (0) Total entities for the zip file: 71 directories, 516 files (0 skipped as non-modified), 12.4 MB
+0036.082 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0036.206 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0036.330 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0036.450 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0036.651 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0036.656 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.4 MB, 516 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0038.251 (0) Created themes zip (0) - 8769 KB in 2.8 s (3117.1 KB/s) (SHA1 checksum: 5e06784212541b36796be4c40b3cb3ef20a3d1c1)
+0038.267 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0038.270 (0) Looking for candidates to back up in: C:\wamp64\www\wordpress/wp-content/uploads
+0038.273 (0) finding files: 2016: adding to list (1)
+0038.276 (0) finding files: ithemes-security: adding to list (2)
+0038.279 (0) finding files: mc4wp-debug-log.php: adding to list (3)
+0038.282 (0) finding files: smp_plain_popup.html: adding to list (4)
+0038.285 (0) finding files: smp_popup.html: adding to list (5)
+0038.288 (0) finding files: squirrly: adding to list (6)
+0038.291 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0038.377 (0) Total entities for the zip file: 8 directories, 102 files (0 skipped as non-modified), 5.3 MB
+0038.451 (0) Zip: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0039.466 (0) Created uploads zip (0) - 5358.5 KB in 1.2 s (4607.2 KB/s) (SHA1 checksum: c2245863b22a682e9244ed234a3cb9280eff320a)
+0039.492 (0) Beginning backup of other directories found in the content directory (index: 0)
+0039.496 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0039.500 (0) Looking for candidates to back up in: C:\wamp64\www\wordpress/wp-content
+0039.505 (0) finding files: index.php: adding to list (1)
+0039.510 (0) finding files: languages: adding to list (2)
+0039.514 (0) finding files: ngg: adding to list (3)
+0039.519 (0) finding files: plugins: skipping: this is the plugins directory
+0039.523 (0) finding files: themes: skipping: this is the themes directory
+0039.527 (0) finding files: updraft: skipping: this is the updraft directory
+0039.531 (0) finding files: upgrade: skipping: excluded by options
+0039.535 (0) finding files: uploads: skipping: this is the uploads directory
+0039.540 (0) finding files: wflogs: adding to list (4)
+0039.711 (0) Total entities for the zip file: 30 directories, 46 files (0 skipped as non-modified), 3.6 MB
+0040.678 (0) Created others zip (0) - 1037.7 KB in 1.1 s (928.1 KB/s) (SHA1 checksum: 220df5dba700e7b8a5cc43ad7d4c783861a774a3)
+0040.706 (0) Saving backup status to database (elements: 8)
+0040.715 (0) Beginning creation of database dump (WordPress DB)
+0041.057 (0) Table wp_options: Total expected rows (approximate): 414
+0041.199 (0) Table wp_options: Total rows added: 406 in 0.14 seconds
+0041.206 (0) Table wp_options: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_options.table.gz - 80.1 KB)
+0041.232 (0) Table wp_users: Total expected rows (approximate): 3
+0041.244 (0) Table wp_users: Total rows added: 3 in 0.01 seconds
+0041.250 (0) Table wp_users: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_users.table.gz - 0.7 KB)
+0041.275 (0) Table wp_usermeta: Total expected rows (approximate): 51
+0041.293 (0) Table wp_usermeta: Total rows added: 51 in 0.01 seconds
+0041.299 (0) Table wp_usermeta: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_usermeta.table.gz - 1.6 KB)
+0041.329 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0041.338 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0041.344 (0) Table wp_commentmeta: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0041.369 (0) Table wp_comments: Total expected rows (approximate): 1
+0041.381 (0) Table wp_comments: Total rows added: 1 in 0.01 seconds
+0041.387 (0) Table wp_comments: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_comments.table.gz - 0.8 KB)
+0041.412 (0) Table wp_links: Total expected rows (approximate): 0
+0041.421 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0041.427 (0) Table wp_links: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_links.table.gz - 0.4 KB)
+0041.453 (0) Table wp_postmeta: Total expected rows (approximate): 372
+0041.524 (0) Table wp_postmeta: Total rows added: 372 in 0.07 seconds
+0041.531 (0) Table wp_postmeta: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_postmeta.table.gz - 8.6 KB)
+0041.554 (0) Table wp_posts: Total expected rows (approximate): 89
+0041.672 (0) Table wp_posts: Total rows added: 89 in 0.11 seconds
+0041.673 (0) Table wp_posts: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_posts.table.gz - 11.1 KB)
+0041.689 (0) Table wp_term_relationships: Total expected rows (approximate): 19
+0041.705 (0) Table wp_term_relationships: Total rows added: 19 in 0.00 seconds
+0041.720 (0) Table wp_term_relationships: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0041.736 (0) Table wp_term_taxonomy: Total expected rows (approximate): 12
+0041.751 (0) Table wp_term_taxonomy: Total rows added: 12 in 0.00 seconds
+0041.767 (0) Table wp_term_taxonomy: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0041.783 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0041.798 (0) Table wp_termmeta: Total rows added: 0 in 0.02 seconds
+0041.814 (0) Table wp_termmeta: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_termmeta.table.gz - 0.4 KB)
+0041.891 (0) Table wp_terms: Total expected rows (approximate): 12
+0041.906 (0) Table wp_terms: Total rows added: 12 in 0.02 seconds
+0041.906 (0) Table wp_terms: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_terms.table.gz - 0.6 KB)
+0041.937 (0) Table wp_itsec_lockouts: Total expected rows (approximate): 0
+0041.953 (0) Table wp_itsec_lockouts: Total rows added: 0 in 0.02 seconds
+0041.961 (0) Table wp_itsec_lockouts: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_itsec_lockouts.table.gz - 0.4 KB)
+0041.990 (0) Table wp_itsec_log: Total expected rows (approximate): 1
+0041.990 (0) Table wp_itsec_log: Total rows added: 1 in 0.00 seconds
+0042.006 (0) Table wp_itsec_log: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_itsec_log.table.gz - 0.6 KB)
+0042.164 (0) Table wp_itsec_temp: Total expected rows (approximate): 0
+0042.173 (0) Table wp_itsec_temp: Total rows added: 0 in 0.00 seconds
+0042.173 (0) Table wp_itsec_temp: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_itsec_temp.table.gz - 0.4 KB)
+0042.484 (0) Table wp_ngg_album: Total expected rows (approximate): 0
+0042.495 (0) Table wp_ngg_album: Total rows added: 0 in 0.01 seconds
+0042.501 (0) Table wp_ngg_album: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_ngg_album.table.gz - 0.4 KB)
+0042.701 (0) Table wp_ngg_gallery: Total expected rows (approximate): 0
+0042.725 (0) Table wp_ngg_gallery: Total rows added: 0 in 0.01 seconds
+0042.844 (0) Table wp_ngg_gallery: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_ngg_gallery.table.gz - 0.4 KB)
+0043.000 (0) Table wp_ngg_pictures: Total expected rows (approximate): 0
+0043.015 (0) Table wp_ngg_pictures: Total rows added: 0 in 0.01 seconds
+0043.020 (0) Table wp_ngg_pictures: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_ngg_pictures.table.gz - 0.5 KB)
+0043.062 (0) Table wp_subscribe_reloaded_subscribers: Total expected rows (approximate): 0
+0043.070 (0) Table wp_subscribe_reloaded_subscribers: Total rows added: 0 in 0.00 seconds
+0043.078 (0) Table wp_subscribe_reloaded_subscribers: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_subscribe_reloaded_subscribers.table.gz - 0.4 KB)
+0043.113 (0) Table wp_wfbadleechers: Total expected rows (approximate): 0
+0043.126 (0) Table wp_wfbadleechers: Total rows added: 0 in 0.01 seconds
+0043.132 (0) Table wp_wfbadleechers: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfbadleechers.table.gz - 0.3 KB)
+0043.191 (0) Table wp_wfblockediplog: Total expected rows (approximate): 0
+0043.201 (0) Table wp_wfblockediplog: Total rows added: 0 in 0.00 seconds
+0043.207 (0) Table wp_wfblockediplog: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfblockediplog.table.gz - 0.3 KB)
+0043.235 (0) Table wp_wfblocks: Total expected rows (approximate): 0
+0043.244 (0) Table wp_wfblocks: Total rows added: 0 in 0.00 seconds
+0043.249 (0) Table wp_wfblocks: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfblocks.table.gz - 0.3 KB)
+0043.278 (0) Table wp_wfblocksadv: Total expected rows (approximate): 0
+0043.287 (0) Table wp_wfblocksadv: Total rows added: 0 in 0.00 seconds
+0043.293 (0) Table wp_wfblocksadv: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfblocksadv.table.gz - 0.3 KB)
+0043.323 (0) Table wp_wfconfig: Total expected rows (approximate): 111
+0043.380 (0) Table wp_wfconfig: Total rows added: 111 in 0.04 seconds
+0043.389 (0) Table wp_wfconfig: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfconfig.table.gz - 1.6 KB)
+0043.433 (0) Table wp_wfcrawlers: Total expected rows (approximate): 0
+0043.446 (0) Table wp_wfcrawlers: Total rows added: 0 in 0.01 seconds
+0043.455 (0) Table wp_wfcrawlers: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfcrawlers.table.gz - 0.3 KB)
+0043.489 (0) Table wp_wffilemods: Total expected rows (approximate): 0
+0043.500 (0) Table wp_wffilemods: Total rows added: 0 in 0.00 seconds
+0043.508 (0) Table wp_wffilemods: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wffilemods.table.gz - 0.3 KB)
+0043.557 (0) Table wp_wfhits: Total expected rows (approximate): 1
+0043.571 (0) Table wp_wfhits: Total rows added: 1 in 0.01 seconds
+0043.576 (0) Table wp_wfhits: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfhits.table.gz - 0.6 KB)
+0043.604 (0) Table wp_wfhoover: Total expected rows (approximate): 0
+0043.615 (0) Table wp_wfhoover: Total rows added: 0 in 0.00 seconds
+0043.620 (0) Table wp_wfhoover: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfhoover.table.gz - 0.3 KB)
+0043.645 (0) Table wp_wfissues: Total expected rows (approximate): 0
+0043.656 (0) Table wp_wfissues: Total rows added: 0 in 0.01 seconds
+0043.663 (0) Table wp_wfissues: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfissues.table.gz - 0.3 KB)
+0043.705 (0) Table wp_wfleechers: Total expected rows (approximate): 0
+0043.713 (0) Table wp_wfleechers: Total rows added: 0 in 0.00 seconds
+0043.720 (0) Table wp_wfleechers: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfleechers.table.gz - 0.3 KB)
+0043.772 (0) Table wp_wflockedout: Total expected rows (approximate): 0
+0043.780 (0) Table wp_wflockedout: Total rows added: 0 in 0.00 seconds
+0043.785 (0) Table wp_wflockedout: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wflockedout.table.gz - 0.3 KB)
+0043.816 (0) Table wp_wflocs: Total expected rows (approximate): 0
+0043.827 (0) Table wp_wflocs: Total rows added: 0 in 0.00 seconds
+0043.832 (0) Table wp_wflocs: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wflocs.table.gz - 0.3 KB)
+0043.867 (0) Table wp_wflogins: Total expected rows (approximate): 0
+0043.880 (0) Table wp_wflogins: Total rows added: 0 in 0.01 seconds
+0043.887 (0) Table wp_wflogins: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wflogins.table.gz - 0.4 KB)
+0043.916 (0) Table wp_wfnet404s: Total expected rows (approximate): 1
+0043.930 (0) Table wp_wfnet404s: Total rows added: 1 in 0.01 seconds
+0043.948 (0) Table wp_wfnet404s: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfnet404s.table.gz - 0.4 KB)
+0043.995 (0) Table wp_wfreversecache: Total expected rows (approximate): 0
+0044.008 (0) Table wp_wfreversecache: Total rows added: 0 in 0.01 seconds
+0044.016 (0) Table wp_wfreversecache: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfreversecache.table.gz - 0.3 KB)
+0044.058 (0) Table wp_wfscanners: Total expected rows (approximate): 1
+0044.074 (0) Table wp_wfscanners: Total rows added: 1 in 0.01 seconds
+0044.083 (0) Table wp_wfscanners: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfscanners.table.gz - 0.3 KB)
+0044.118 (0) Table wp_wfstatus: Total expected rows (approximate): 0
+0044.125 (0) Table wp_wfstatus: Total rows added: 0 in 0.00 seconds
+0044.130 (0) Table wp_wfstatus: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfstatus.table.gz - 0.3 KB)
+0044.152 (0) Table wp_wfthrottlelog: Total expected rows (approximate): 0
+0044.160 (0) Table wp_wfthrottlelog: Total rows added: 0 in 0.00 seconds
+0044.165 (0) Table wp_wfthrottlelog: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfthrottlelog.table.gz - 0.3 KB)
+0044.189 (0) Table wp_wfvulnscanners: Total expected rows (approximate): 0
+0044.197 (0) Table wp_wfvulnscanners: Total rows added: 0 in 0.00 seconds
+0044.201 (0) Table wp_wfvulnscanners: finishing file (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfvulnscanners.table.gz - 0.3 KB)
+0044.220 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_options.table.gz (1/39): adding to final database dump
+0044.275 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_users.table.gz (2/39): adding to final database dump
+0044.281 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_usermeta.table.gz (3/39): adding to final database dump
+0044.288 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_commentmeta.table.gz (4/39): adding to final database dump
+0044.293 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_comments.table.gz (5/39): adding to final database dump
+0044.300 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_links.table.gz (6/39): adding to final database dump
+0044.305 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_postmeta.table.gz (7/39): adding to final database dump
+0044.324 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_posts.table.gz (8/39): adding to final database dump
+0044.338 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_term_relationships.table.gz (9/39): adding to final database dump
+0044.343 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_term_taxonomy.table.gz (10/39): adding to final database dump
+0044.349 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_termmeta.table.gz (11/39): adding to final database dump
+0044.355 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_terms.table.gz (12/39): adding to final database dump
+0044.360 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_itsec_lockouts.table.gz (13/39): adding to final database dump
+0044.366 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_itsec_log.table.gz (14/39): adding to final database dump
+0044.372 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_itsec_temp.table.gz (15/39): adding to final database dump
+0044.377 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_ngg_album.table.gz (16/39): adding to final database dump
+0044.383 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_ngg_gallery.table.gz (17/39): adding to final database dump
+0044.388 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_ngg_pictures.table.gz (18/39): adding to final database dump
+0044.394 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_subscribe_reloaded_subscribers.table.gz (19/39): adding to final database dump
+0044.399 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfbadleechers.table.gz (20/39): adding to final database dump
+0044.404 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfblockediplog.table.gz (21/39): adding to final database dump
+0044.409 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfblocks.table.gz (22/39): adding to final database dump
+0044.414 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfblocksadv.table.gz (23/39): adding to final database dump
+0044.421 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfconfig.table.gz (24/39): adding to final database dump
+0044.430 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfcrawlers.table.gz (25/39): adding to final database dump
+0044.435 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wffilemods.table.gz (26/39): adding to final database dump
+0044.440 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfhits.table.gz (27/39): adding to final database dump
+0044.445 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfhoover.table.gz (28/39): adding to final database dump
+0044.450 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfissues.table.gz (29/39): adding to final database dump
+0044.455 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfleechers.table.gz (30/39): adding to final database dump
+0044.462 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wflockedout.table.gz (31/39): adding to final database dump
+0044.468 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wflocs.table.gz (32/39): adding to final database dump
+0044.474 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wflogins.table.gz (33/39): adding to final database dump
+0044.479 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfnet404s.table.gz (34/39): adding to final database dump
+0044.484 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfreversecache.table.gz (35/39): adding to final database dump
+0044.489 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfscanners.table.gz (36/39): adding to final database dump
+0044.494 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfstatus.table.gz (37/39): adding to final database dump
+0044.498 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfthrottlelog.table.gz (38/39): adding to final database dump
+0044.503 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db-table-wp_wfvulnscanners.table.gz (39/39): adding to final database dump
+0044.508 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db.gz: finished writing out complete database file (96 KB)
+0044.548 (0) Total database tables backed up: 39 (backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db.gz, size: 109255, checksum (SHA1): 0d79d22c8d04f94dcb9abe93819b3b988f908e2a)
+0044.569 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0044.573 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0044.577 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0044.581 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-others.zip: others: This file has not yet been successfully uploaded: will queue
+0044.585 (0) backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db.gz: db: This file has not yet been successfully uploaded: will queue
+0044.588 (0) Saving backup history. Total backup size: 39.1 MB
+0044.599 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0044.611 (0) Cloud backup selection (1/1): ftp (last)
+0044.615 (0) Beginning dispatch of backup to remote (ftp)
+0045.180 (0) FTP upload attempt: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-plugins.zip
+0045.348 (0) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+0045.363 (0) FTP upload: error (0)
+0045.368 (0) ERROR: FTP upload failed
+0045.374 (0) An error condition has occurred for the first time during this job
+0045.379 (0) FTP upload attempt: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-themes.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-themes.zip
+0045.549 (0) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+0045.563 (0) FTP upload: error (0)
+0045.568 (0) ERROR: FTP upload failed
+0045.575 (0) FTP upload attempt: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-uploads.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-uploads.zip
+0045.740 (0) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+0045.753 (0) FTP upload: error (0)
+0045.758 (0) ERROR: FTP upload failed
+0045.764 (0) FTP upload attempt: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-others.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-others.zip
+0045.953 (0) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+0045.966 (0) FTP upload: error (0)
+0045.971 (0) ERROR: FTP upload failed
+0045.976 (0) FTP upload attempt: backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db.gz -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1807_BlogMusculation_0effc242bd8c-db.gz
+0046.127 (0) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+0046.139 (0) FTP upload: error (0)
+0046.145 (0) ERROR: FTP upload failed
+0046.158 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+0046.166 (0) Number of backup sets in history: 5; groups (db): 1
+0046.172 (0) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+0046.177 (0) This backup set is the backup set just made, so will not be deleted.
+0046.183 (0) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480265736 (Nov 27 2016 16:55:36)
+0046.189 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0046.194 (0) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+0046.201 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0046.206 (0) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0046.212 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0046.218 (0) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0046.223 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0046.229 (0) Number of backup sets in history: 5; groups (files): 1
+0046.235 (0) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+0046.240 (0) This backup set is the backup set just made, so will not be deleted.
+0046.245 (0) This backup set is the backup set just made, so will not be deleted.
+0046.248 (0) This backup set is the backup set just made, so will not be deleted.
+0046.250 (0) This backup set is the backup set just made, so will not be deleted.
+0046.252 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0046.258 (0) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480265736 (Nov 27 2016 16:55:36)
+0046.264 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0046.269 (0) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+0046.275 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0046.280 (0) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0046.286 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0046.292 (0) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0046.298 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0046.303 (0) Retain: saving new backup history (sets now: 5) and finishing retain operation
+0046.384 (0) Resume backup (0effc242bd8c, 0): finish run
+0046.396 (0) Decremented the semaphore (fd) by 1
+0046.402 (0) Semaphore (fd) unlocked
+0046.409 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0046.431 (0) Rescheduling resumption 1: moving to 120 seconds from now (1480266605)
+0046.446 (0) No email will/can be sent - the user has not configured an email address.
+0046.453 (0) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+0882.329 (1) Opened log file at time: Sun, 27 Nov 2016 17:10:18 +0000 on http://localhost/wordpress
+0882.335 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.23 WP: 4.6.1 PHP: 5.6.25 (apache2handler, Windows NT MED-PC 6.1 build 7601 (Windows 7 Ultimate Edition Service Pack 1) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 47.4M | 48.3M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0882.340 (1) Free space on disk containing Updraft's temporary directory: 1622.3 MB
+0882.352 (1) Backup run: resumption=1, nonce=0effc242bd8c, begun at=1480265736 (882s ago), job type=backup, previous check-in=53.5s
+0882.363 (1) Scheduling a resumption (2) after 300 seconds (1480266918) in case this run gets aborted
+0882.375 (1) Checking if we have a zip executable available
+0882.380 (1) Creation of backups of directories: already finished
+0882.387 (1) Saving backup status to database (elements: 8)
+0882.399 (1) Database dump (WordPress DB): Creation was completed already
+0882.412 (1) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0882.417 (1) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0882.422 (1) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0882.428 (1) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip: others: This file has not yet been successfully uploaded: will queue
+0882.433 (1) backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (C:\wamp64\www\wordpress/wp-content/updraft/backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz)
+0882.445 (1) Recording as successfully uploaded: backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz (486fb1eece6d5fe2566332f236269e17)
+0882.465 (1) Saving backup history. Total backup size: Unknown
+0882.476 (1) Requesting upload of the files that have not yet been successfully uploaded (4)
+0882.486 (1) Cloud backup selection (1/1): ftp (last)
+0882.490 (1) Beginning dispatch of backup to remote (ftp)
+0882.930 (1) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip
+0883.176 (1) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+0883.188 (1) FTP upload: error (0)
+0883.193 (1) ERROR: FTP upload failed
+0883.199 (1) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip
+0883.488 (1) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+0883.501 (1) FTP upload: error (0)
+0883.506 (1) ERROR: FTP upload failed
+0883.511 (1) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip
+0883.734 (1) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+0883.750 (1) FTP upload: error (0)
+0883.756 (1) ERROR: FTP upload failed
+0883.766 (1) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip
+0884.183 (1) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+0884.193 (1) FTP upload: error (0)
+0884.198 (1) ERROR: FTP upload failed
+0884.209 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+0884.215 (1) Number of backup sets in history: 5; groups (db): 1
+0884.220 (1) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+0884.224 (1) This backup set is the backup set just made, so will not be deleted.
+0884.229 (1) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+0884.233 (1) This backup set is the backup set just made, so will not be deleted.
+0884.237 (1) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+0884.242 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0884.246 (1) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0884.251 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0884.256 (1) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0884.261 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0884.265 (1) Number of backup sets in history: 5; groups (files): 1
+0884.270 (1) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+0884.274 (1) This backup set is the backup set just made, so will not be deleted.
+0884.278 (1) This backup set is the backup set just made, so will not be deleted.
+0884.280 (1) This backup set is the backup set just made, so will not be deleted.
+0884.282 (1) This backup set is the backup set just made, so will not be deleted.
+0884.283 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0884.288 (1) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+0884.292 (1) This backup set is the backup set just made, so will not be deleted.
+0884.297 (1) This backup set is the backup set just made, so will not be deleted.
+0884.298 (1) This backup set is the backup set just made, so will not be deleted.
+0884.300 (1) This backup set is the backup set just made, so will not be deleted.
+0884.303 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0884.309 (1) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+0884.315 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0884.321 (1) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+0884.329 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0884.336 (1) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+0884.344 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0884.352 (1) Retain: saving new backup history (sets now: 5) and finishing retain operation
+0884.413 (1) Resume backup (0effc242bd8c, 1): finish run
+0884.424 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0884.434 (1) No email will/can be sent - the user has not configured an email address.
+0884.439 (1) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+1200.415 (2) Opened log file at time: Sun, 27 Nov 2016 17:15:36 +0000 on http://localhost/wordpress
+1200.420 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.23 WP: 4.6.1 PHP: 5.6.25 (apache2handler, Windows NT MED-PC 6.1 build 7601 (Windows 7 Ultimate Edition Service Pack 1) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 47.4M | 48.3M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+1200.473 (2) Free space on disk containing Updraft's temporary directory: 1558.2 MB
+1200.485 (2) Backup run: resumption=2, nonce=0effc242bd8c, begun at=1480265736 (1200s ago), job type=backup
+1200.495 (2) Scheduling a resumption (3) after 300 seconds (1480267236) in case this run gets aborted
+1200.506 (2) Checking if we have a zip executable available
+1200.512 (2) Creation of backups of directories: already finished
+1200.518 (2) Saving backup status to database (elements: 8)
+1200.530 (2) Database dump (WordPress DB): Creation was completed already
+1200.545 (2) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1200.550 (2) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1200.556 (2) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1200.561 (2) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip: others: This file has not yet been successfully uploaded: will queue
+1200.566 (2) backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (C:\wamp64\www\wordpress/wp-content/updraft/backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz)
+1200.576 (2) Recording as successfully uploaded: backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz (486fb1eece6d5fe2566332f236269e17)
+1200.596 (2) Saving backup history. Total backup size: Unknown
+1200.609 (2) Requesting upload of the files that have not yet been successfully uploaded (4)
+1200.621 (2) Cloud backup selection (1/1): ftp (last)
+1200.626 (2) Beginning dispatch of backup to remote (ftp)
+1200.953 (2) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip
+1201.197 (2) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+1201.208 (2) FTP upload: error (0)
+1201.213 (2) ERROR: FTP upload failed
+1201.218 (2) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip
+1201.431 (2) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+1201.442 (2) FTP upload: error (0)
+1201.447 (2) ERROR: FTP upload failed
+1201.452 (2) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip
+1201.688 (2) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+1201.699 (2) FTP upload: error (0)
+1201.704 (2) ERROR: FTP upload failed
+1201.709 (2) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip
+1201.947 (2) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+1201.958 (2) FTP upload: error (0)
+1201.963 (2) ERROR: FTP upload failed
+1201.975 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+1201.981 (2) Number of backup sets in history: 5; groups (db): 1
+1201.986 (2) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+1201.991 (2) This backup set is the backup set just made, so will not be deleted.
+1201.996 (2) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+1202.001 (2) This backup set is the backup set just made, so will not be deleted.
+1202.006 (2) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+1202.011 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1202.016 (2) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+1202.021 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1202.026 (2) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+1202.032 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1202.037 (2) Number of backup sets in history: 5; groups (files): 1
+1202.041 (2) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+1202.046 (2) This backup set is the backup set just made, so will not be deleted.
+1202.051 (2) This backup set is the backup set just made, so will not be deleted.
+1202.053 (2) This backup set is the backup set just made, so will not be deleted.
+1202.055 (2) This backup set is the backup set just made, so will not be deleted.
+1202.057 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1202.062 (2) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+1202.066 (2) This backup set is the backup set just made, so will not be deleted.
+1202.071 (2) This backup set is the backup set just made, so will not be deleted.
+1202.073 (2) This backup set is the backup set just made, so will not be deleted.
+1202.075 (2) This backup set is the backup set just made, so will not be deleted.
+1202.077 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1202.082 (2) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+1202.087 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1202.092 (2) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+1202.097 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1202.102 (2) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+1202.107 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1202.112 (2) Retain: saving new backup history (sets now: 5) and finishing retain operation
+1202.182 (2) Resume backup (0effc242bd8c, 2): finish run
+1202.192 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1202.203 (2) No email will/can be sent - the user has not configured an email address.
+1202.208 (2) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+1590.250 (3) Opened log file at time: Sun, 27 Nov 2016 17:22:06 +0000 on http://localhost/wordpress
+1590.256 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.23 WP: 4.6.1 PHP: 5.6.25 (apache2handler, Windows NT MED-PC 6.1 build 7601 (Windows 7 Ultimate Edition Service Pack 1) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 47.4M | 48.3M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+1590.261 (3) Free space on disk containing Updraft's temporary directory: 1556.1 MB
+1590.274 (3) Backup run: resumption=3, nonce=0effc242bd8c, begun at=1480265736 (1590s ago), job type=backup
+1590.281 (3) Long time past since expected resumption time: approx expected=1480266576.8, now=1480267326.4, diff=749.6
+1590.291 (3) [Warning] Votre site est consulté rarement et UpdraftPlus ne peut récupérer les ressources qu'il recherche; veuillez prendre connaissance de cette page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+1590.301 (3) Scheduling a resumption (4) after 300 seconds (1480267626) in case this run gets aborted
+1590.313 (3) Checking if we have a zip executable available
+1590.317 (3) Creation of backups of directories: already finished
+1590.323 (3) Saving backup status to database (elements: 8)
+1590.334 (3) Database dump (WordPress DB): Creation was completed already
+1590.349 (3) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1590.355 (3) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1590.360 (3) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1590.365 (3) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip: others: This file has not yet been successfully uploaded: will queue
+1590.370 (3) backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (C:\wamp64\www\wordpress/wp-content/updraft/backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz)
+1590.380 (3) Recording as successfully uploaded: backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz (486fb1eece6d5fe2566332f236269e17)
+1590.400 (3) Saving backup history. Total backup size: Unknown
+1590.411 (3) Requesting upload of the files that have not yet been successfully uploaded (4)
+1590.423 (3) Cloud backup selection (1/1): ftp (last)
+1590.430 (3) Beginning dispatch of backup to remote (ftp)
+1590.764 (3) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip
+1590.993 (3) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+1591.004 (3) FTP upload: error (0)
+1591.009 (3) ERROR: FTP upload failed
+1591.014 (3) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip
+1591.231 (3) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+1591.242 (3) FTP upload: error (0)
+1591.248 (3) ERROR: FTP upload failed
+1591.253 (3) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip
+1591.488 (3) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+1591.498 (3) FTP upload: error (0)
+1591.503 (3) ERROR: FTP upload failed
+1591.509 (3) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip
+1591.735 (3) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+1591.744 (3) FTP upload: error (0)
+1591.748 (3) ERROR: FTP upload failed
+1591.759 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+1591.764 (3) Number of backup sets in history: 5; groups (db): 1
+1591.769 (3) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+1591.773 (3) This backup set is the backup set just made, so will not be deleted.
+1591.777 (3) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+1591.781 (3) This backup set is the backup set just made, so will not be deleted.
+1591.786 (3) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+1591.790 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1591.794 (3) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+1591.799 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1591.803 (3) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+1591.807 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1591.811 (3) Number of backup sets in history: 5; groups (files): 1
+1591.816 (3) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+1591.820 (3) This backup set is the backup set just made, so will not be deleted.
+1591.823 (3) This backup set is the backup set just made, so will not be deleted.
+1591.825 (3) This backup set is the backup set just made, so will not be deleted.
+1591.827 (3) This backup set is the backup set just made, so will not be deleted.
+1591.829 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1591.833 (3) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+1591.836 (3) This backup set is the backup set just made, so will not be deleted.
+1591.841 (3) This backup set is the backup set just made, so will not be deleted.
+1591.842 (3) This backup set is the backup set just made, so will not be deleted.
+1591.844 (3) This backup set is the backup set just made, so will not be deleted.
+1591.846 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1591.850 (3) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+1591.854 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1591.858 (3) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+1591.862 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1591.866 (3) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+1591.871 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1591.875 (3) Retain: saving new backup history (sets now: 5) and finishing retain operation
+1591.950 (3) Resume backup (0effc242bd8c, 3): finish run
+1591.959 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1591.970 (3) No email will/can be sent - the user has not configured an email address.
+1591.974 (3) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+1938.903 (4) Opened log file at time: Sun, 27 Nov 2016 17:27:55 +0000 on http://localhost/wordpress
+1938.909 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.23 WP: 4.6.1 PHP: 5.6.25 (apache2handler, Windows NT MED-PC 6.1 build 7601 (Windows 7 Ultimate Edition Service Pack 1) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 47.3M | 48.3M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+1938.914 (4) Free space on disk containing Updraft's temporary directory: 1550.5 MB
+1938.926 (4) Backup run: resumption=4, nonce=0effc242bd8c, begun at=1480265736 (1939s ago), job type=backup
+1938.931 (4) Long time past since expected resumption time: approx expected=1480266911, now=1480267675.1, diff=764.1
+1938.942 (4) [Warning] Votre site est consulté rarement et UpdraftPlus ne peut récupérer les ressources qu'il recherche; veuillez prendre connaissance de cette page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+1938.953 (4) Scheduling a resumption (5) after 300 seconds (1480267975) in case this run gets aborted
+1938.965 (4) Checking if we have a zip executable available
+1938.970 (4) Creation of backups of directories: already finished
+1938.977 (4) Saving backup status to database (elements: 8)
+1938.989 (4) Database dump (WordPress DB): Creation was completed already
+1939.004 (4) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1939.009 (4) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1939.014 (4) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1939.019 (4) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip: others: This file has not yet been successfully uploaded: will queue
+1939.024 (4) backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (C:\wamp64\www\wordpress/wp-content/updraft/backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz)
+1939.036 (4) Recording as successfully uploaded: backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz (486fb1eece6d5fe2566332f236269e17)
+1939.059 (4) Saving backup history. Total backup size: Unknown
+1939.071 (4) Requesting upload of the files that have not yet been successfully uploaded (4)
+1939.082 (4) Cloud backup selection (1/1): ftp (last)
+1939.087 (4) Beginning dispatch of backup to remote (ftp)
+1939.993 (4) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip
+1940.243 (4) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+1940.255 (4) FTP upload: error (0)
+1940.260 (4) ERROR: FTP upload failed
+1940.265 (4) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip
+1940.443 (4) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+1940.454 (4) FTP upload: error (0)
+1940.458 (4) ERROR: FTP upload failed
+1940.464 (4) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip
+1940.673 (4) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+1940.684 (4) FTP upload: error (0)
+1940.689 (4) ERROR: FTP upload failed
+1940.695 (4) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip
+1940.903 (4) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+1940.915 (4) FTP upload: error (0)
+1940.920 (4) ERROR: FTP upload failed
+1940.932 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+1940.939 (4) Number of backup sets in history: 5; groups (db): 1
+1940.944 (4) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+1940.949 (4) This backup set is the backup set just made, so will not be deleted.
+1940.954 (4) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+1940.959 (4) This backup set is the backup set just made, so will not be deleted.
+1940.963 (4) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+1940.969 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1940.974 (4) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+1940.979 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1940.984 (4) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+1940.989 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1940.994 (4) Number of backup sets in history: 5; groups (files): 1
+1940.999 (4) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+1941.003 (4) This backup set is the backup set just made, so will not be deleted.
+1941.008 (4) This backup set is the backup set just made, so will not be deleted.
+1941.010 (4) This backup set is the backup set just made, so will not be deleted.
+1941.012 (4) This backup set is the backup set just made, so will not be deleted.
+1941.014 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1941.018 (4) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+1941.023 (4) This backup set is the backup set just made, so will not be deleted.
+1941.028 (4) This backup set is the backup set just made, so will not be deleted.
+1941.030 (4) This backup set is the backup set just made, so will not be deleted.
+1941.031 (4) This backup set is the backup set just made, so will not be deleted.
+1941.033 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1941.038 (4) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+1941.043 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1941.048 (4) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+1941.053 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1941.058 (4) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+1941.062 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1941.067 (4) Retain: saving new backup history (sets now: 5) and finishing retain operation
+1941.145 (4) Resume backup (0effc242bd8c, 4): finish run
+1941.154 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1941.165 (4) No email will/can be sent - the user has not configured an email address.
+1941.169 (4) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+2306.897 (5) Opened log file at time: Sun, 27 Nov 2016 17:34:03 +0000 on http://localhost/wordpress
+2306.902 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.23 WP: 4.6.1 PHP: 5.6.25 (apache2handler, Windows NT MED-PC 6.1 build 7601 (Windows 7 Ultimate Edition Service Pack 1) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 47.3M | 48.3M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+2306.907 (5) Free space on disk containing Updraft's temporary directory: 1554.5 MB
+2306.919 (5) Backup run: resumption=5, nonce=0effc242bd8c, begun at=1480265736 (2307s ago), job type=backup
+2306.924 (5) Long time past since expected resumption time: approx expected=1480267231.2, now=1480268043.1, diff=811.9
+2306.935 (5) [Warning] Votre site est consulté rarement et UpdraftPlus ne peut récupérer les ressources qu'il recherche; veuillez prendre connaissance de cette page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+2306.946 (5) Scheduling a resumption (6) after 300 seconds (1480268343) in case this run gets aborted
+2306.958 (5) Checking if we have a zip executable available
+2306.963 (5) Creation of backups of directories: already finished
+2306.970 (5) Saving backup status to database (elements: 8)
+2306.982 (5) Database dump (WordPress DB): Creation was completed already
+2306.997 (5) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2307.002 (5) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2307.007 (5) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2307.012 (5) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip: others: This file has not yet been successfully uploaded: will queue
+2307.018 (5) backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (C:\wamp64\www\wordpress/wp-content/updraft/backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz)
+2307.029 (5) Recording as successfully uploaded: backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz (486fb1eece6d5fe2566332f236269e17)
+2307.052 (5) Saving backup history. Total backup size: Unknown
+2307.065 (5) Requesting upload of the files that have not yet been successfully uploaded (4)
+2307.075 (5) Cloud backup selection (1/1): ftp (last)
+2307.080 (5) Beginning dispatch of backup to remote (ftp)
+2309.588 (5) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip
+2310.898 (5) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+2310.910 (5) FTP upload: error (0)
+2310.915 (5) ERROR: FTP upload failed
+2310.920 (5) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip
+2312.258 (5) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+2312.270 (5) FTP upload: error (0)
+2312.275 (5) ERROR: FTP upload failed
+2312.280 (5) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip
+2313.550 (5) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+2313.562 (5) FTP upload: error (0)
+2313.567 (5) ERROR: FTP upload failed
+2313.572 (5) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip
+2314.819 (5) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+2314.831 (5) FTP upload: error (0)
+2314.836 (5) ERROR: FTP upload failed
+2314.848 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+2314.855 (5) Number of backup sets in history: 5; groups (db): 1
+2314.860 (5) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+2314.865 (5) This backup set is the backup set just made, so will not be deleted.
+2314.870 (5) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+2314.875 (5) This backup set is the backup set just made, so will not be deleted.
+2314.880 (5) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+2314.885 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2314.890 (5) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+2314.895 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2314.900 (5) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+2314.905 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2314.910 (5) Number of backup sets in history: 5; groups (files): 1
+2314.915 (5) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+2314.920 (5) This backup set is the backup set just made, so will not be deleted.
+2314.925 (5) This backup set is the backup set just made, so will not be deleted.
+2314.927 (5) This backup set is the backup set just made, so will not be deleted.
+2314.929 (5) This backup set is the backup set just made, so will not be deleted.
+2314.931 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2314.935 (5) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+2314.940 (5) This backup set is the backup set just made, so will not be deleted.
+2314.945 (5) This backup set is the backup set just made, so will not be deleted.
+2314.947 (5) This backup set is the backup set just made, so will not be deleted.
+2314.949 (5) This backup set is the backup set just made, so will not be deleted.
+2314.951 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2314.956 (5) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+2314.961 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2314.966 (5) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+2314.971 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2314.976 (5) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+2314.981 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2314.986 (5) Retain: saving new backup history (sets now: 5) and finishing retain operation
+2315.268 (5) Resume backup (0effc242bd8c, 5): finish run
+2315.278 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2315.290 (5) No email will/can be sent - the user has not configured an email address.
+2315.295 (5) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+2667.334 (6) Opened log file at time: Sun, 27 Nov 2016 17:40:03 +0000 on http://localhost/wordpress
+2667.341 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.23 WP: 4.6.1 PHP: 5.6.25 (apache2handler, Windows NT MED-PC 6.1 build 7601 (Windows 7 Ultimate Edition Service Pack 1) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 46M | 47.3M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+2667.346 (6) Free space on disk containing Updraft's temporary directory: 1554.4 MB
+2667.355 (6) Backup run: resumption=6, nonce=0effc242bd8c, begun at=1480265736 (2667s ago), job type=backup
+2667.364 (6) Scheduling a resumption (7) after 300 seconds (1480268703) in case this run gets aborted
+2667.387 (6) Checking if we have a zip executable available
+2667.393 (6) Creation of backups of directories: already finished
+2667.399 (6) Saving backup status to database (elements: 8)
+2667.411 (6) Database dump (WordPress DB): Creation was completed already
+2667.428 (6) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2667.433 (6) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2667.439 (6) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2667.444 (6) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip: others: This file has not yet been successfully uploaded: will queue
+2667.449 (6) backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz: db: This file has already been successfully uploaded
+2667.454 (6) Saving backup history. Total backup size: Unknown
+2667.466 (6) Requesting upload of the files that have not yet been successfully uploaded (4)
+2667.477 (6) Cloud backup selection (1/1): ftp (last)
+2667.483 (6) Beginning dispatch of backup to remote (ftp)
+2669.499 (6) Opened log file at time: Sun, 27 Nov 2016 17:40:05 +0000 on http://localhost/wordpress
+2669.504 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.23 WP: 4.6.1 PHP: 5.6.25 (apache2handler, Windows NT MED-PC 6.1 build 7601 (Windows 7 Ultimate Edition Service Pack 1) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 57.8M | 59M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+2669.509 (6) Free space on disk containing Updraft's temporary directory: 1554.4 MB
+2669.520 (6) Backup run: resumption=6, nonce=0effc242bd8c, begun at=1480265736 (2669s ago), job type=backup
+2669.525 (6) Scheduling a resumption (7) after 300 seconds (1480268705) in case this run gets aborted
+2669.551 (6) Checking if we have a zip executable available
+2669.556 (6) Creation of backups of directories: already finished
+2669.562 (6) Saving backup status to database (elements: 8)
+2669.574 (6) Database dump (WordPress DB): Creation was completed already
+2669.590 (6) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2669.595 (6) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2669.600 (6) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2669.605 (6) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip: others: This file has not yet been successfully uploaded: will queue
+2669.609 (6) backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz: db: This file has already been successfully uploaded
+2669.614 (6) Saving backup history. Total backup size: Unknown
+2669.625 (6) Requesting upload of the files that have not yet been successfully uploaded (4)
+2669.631 (6) Cloud backup selection (1/1): ftp (last)
+2669.638 (6) Beginning dispatch of backup to remote (ftp)
+2670.220 (6) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip
+2671.695 (6) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+2671.707 (6) FTP upload: error (0)
+2671.712 (6) ERROR: FTP upload failed
+2671.717 (6) An error condition has occurred for the first time during this job
+2671.721 (6) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip
+2671.725 (6) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip
+2673.295 (6) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+2673.307 (6) FTP upload: error (0)
+2673.312 (6) ERROR: FTP upload failed
+2673.317 (6) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip
+2673.687 (6) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+2673.699 (6) FTP upload: error (0)
+2673.704 (6) ERROR: FTP upload failed
+2673.709 (6) An error condition has occurred for the first time during this job
+2673.714 (6) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip
+2675.135 (6) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+2675.147 (6) FTP upload: error (0)
+2675.152 (6) ERROR: FTP upload failed
+2675.157 (6) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip
+2675.465 (6) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+2675.478 (6) FTP upload: error (0)
+2675.483 (6) ERROR: FTP upload failed
+2675.487 (6) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip
+2677.369 (6) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+2677.381 (6) FTP upload: error (0)
+2677.386 (6) ERROR: FTP upload failed
+2677.398 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+2677.405 (6) Number of backup sets in history: 5; groups (db): 1
+2677.410 (6) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+2677.415 (6) This backup set is the backup set just made, so will not be deleted.
+2677.419 (6) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+2677.424 (6) This backup set is the backup set just made, so will not be deleted.
+2677.429 (6) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+2677.434 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2677.439 (6) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+2677.444 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2677.449 (6) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+2677.454 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2677.460 (6) Number of backup sets in history: 5; groups (files): 1
+2677.466 (6) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+2677.471 (6) This backup set is the backup set just made, so will not be deleted.
+2677.476 (6) This backup set is the backup set just made, so will not be deleted.
+2677.478 (6) This backup set is the backup set just made, so will not be deleted.
+2677.479 (6) This backup set is the backup set just made, so will not be deleted.
+2677.482 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2677.486 (6) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+2677.491 (6) This backup set is the backup set just made, so will not be deleted.
+2677.496 (6) This backup set is the backup set just made, so will not be deleted.
+2677.497 (6) This backup set is the backup set just made, so will not be deleted.
+2677.499 (6) This backup set is the backup set just made, so will not be deleted.
+2677.501 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2677.506 (6) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+2677.511 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2677.516 (6) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+2677.521 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2677.525 (6) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+2677.530 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2677.535 (6) Retain: saving new backup history (sets now: 5) and finishing retain operation
+2677.906 (6) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+2677.917 (6) FTP upload: error (0)
+2677.922 (6) ERROR: FTP upload failed
+2677.927 (6) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip
+2677.945 (6) Resume backup (0effc242bd8c, 6): finish run
+2677.954 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2677.966 (6) No email will/can be sent - the user has not configured an email address.
+2677.971 (6) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+2679.395 (6) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+2679.407 (6) FTP upload: error (0)
+2679.412 (6) ERROR: FTP upload failed
+2679.424 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+2679.431 (6) Number of backup sets in history: 5; groups (db): 1
+2679.436 (6) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+2679.441 (6) This backup set is the backup set just made, so will not be deleted.
+2679.446 (6) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+2679.450 (6) This backup set is the backup set just made, so will not be deleted.
+2679.455 (6) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+2679.461 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2679.466 (6) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+2679.471 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2679.476 (6) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+2679.481 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2679.486 (6) Number of backup sets in history: 5; groups (files): 1
+2679.491 (6) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+2679.496 (6) This backup set is the backup set just made, so will not be deleted.
+2679.500 (6) This backup set is the backup set just made, so will not be deleted.
+2679.502 (6) This backup set is the backup set just made, so will not be deleted.
+2679.504 (6) This backup set is the backup set just made, so will not be deleted.
+2679.506 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2679.511 (6) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+2679.515 (6) This backup set is the backup set just made, so will not be deleted.
+2679.520 (6) This backup set is the backup set just made, so will not be deleted.
+2679.522 (6) This backup set is the backup set just made, so will not be deleted.
+2679.524 (6) This backup set is the backup set just made, so will not be deleted.
+2679.526 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2679.530 (6) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+2679.535 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2679.540 (6) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+2679.545 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2679.550 (6) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+2679.555 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2679.560 (6) Retain: saving new backup history (sets now: 5) and finishing retain operation
+2679.845 (6) Resume backup (0effc242bd8c, 6): finish run
+2679.854 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2679.866 (6) No email will/can be sent - the user has not configured an email address.
+2679.871 (6) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+3037.389 (7) Opened log file at time: Sun, 27 Nov 2016 17:46:13 +0000 on http://localhost/wordpress
+3037.395 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.23 WP: 4.6.1 PHP: 5.6.25 (apache2handler, Windows NT MED-PC 6.1 build 7601 (Windows 7 Ultimate Edition Service Pack 1) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 46M | 47.3M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+3037.401 (7) Free space on disk containing Updraft's temporary directory: 1230.7 MB
+3037.412 (7) Backup run: resumption=7, nonce=0effc242bd8c, begun at=1480265736 (3037s ago), job type=backup
+3037.421 (7) Scheduling a resumption (8) after 300 seconds (1480269073) in case this run gets aborted
+3037.445 (7) Checking if we have a zip executable available
+3037.450 (7) Creation of backups of directories: already finished
+3037.459 (7) Saving backup status to database (elements: 8)
+3037.471 (7) Database dump (WordPress DB): Creation was completed already
+3037.529 (7) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+3037.534 (7) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+3037.538 (7) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+3037.542 (7) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip: others: This file has not yet been successfully uploaded: will queue
+3037.547 (7) backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz: db: This file has already been successfully uploaded
+3037.552 (7) Saving backup history. Total backup size: Unknown
+3037.565 (7) Requesting upload of the files that have not yet been successfully uploaded (4)
+3037.576 (7) Cloud backup selection (1/1): ftp (last)
+3037.584 (7) Beginning dispatch of backup to remote (ftp)
+3039.193 (7) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip
+3039.550 (7) Opened log file at time: Sun, 27 Nov 2016 17:46:15 +0000 on http://localhost/wordpress
+3039.555 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.23 WP: 4.6.1 PHP: 5.6.25 (apache2handler, Windows NT MED-PC 6.1 build 7601 (Windows 7 Ultimate Edition Service Pack 1) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 57.8M | 58.8M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+3039.560 (7) Free space on disk containing Updraft's temporary directory: 1230.7 MB
+3039.571 (7) Backup run: resumption=7, nonce=0effc242bd8c, begun at=1480265736 (3039s ago), job type=backup
+3039.576 (7) Scheduling a resumption (8) after 300 seconds (1480269075) in case this run gets aborted
+3039.602 (7) Checking if we have a zip executable available
+3039.607 (7) Creation of backups of directories: already finished
+3039.613 (7) Saving backup status to database (elements: 8)
+3039.625 (7) Database dump (WordPress DB): Creation was completed already
+3039.641 (7) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+3039.646 (7) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+3039.651 (7) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+3039.656 (7) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip: others: This file has not yet been successfully uploaded: will queue
+3039.660 (7) backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz: db: This file has already been successfully uploaded
+3039.664 (7) Saving backup history. Total backup size: Unknown
+3039.676 (7) Requesting upload of the files that have not yet been successfully uploaded (4)
+3039.682 (7) Cloud backup selection (1/1): ftp (last)
+3039.689 (7) Beginning dispatch of backup to remote (ftp)
+3040.665 (7) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+3040.676 (7) FTP upload: error (0)
+3040.681 (7) ERROR: FTP upload failed
+3040.686 (7) An error condition has occurred for the first time during this job
+3040.691 (7) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip
+3041.914 (7) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip
+3042.284 (7) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+3042.296 (7) FTP upload: error (0)
+3042.301 (7) ERROR: FTP upload failed
+3042.306 (7) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip
+3043.695 (7) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+3043.707 (7) FTP upload: error (0)
+3043.712 (7) ERROR: FTP upload failed
+3043.717 (7) An error condition has occurred for the first time during this job
+3043.721 (7) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip
+3044.004 (7) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+3044.016 (7) FTP upload: error (0)
+3044.021 (7) ERROR: FTP upload failed
+3044.026 (7) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip
+3045.384 (7) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+3045.396 (7) FTP upload: error (0)
+3045.401 (7) ERROR: FTP upload failed
+3045.406 (7) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip
+3045.725 (7) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+3045.737 (7) FTP upload: error (0)
+3045.742 (7) ERROR: FTP upload failed
+3045.754 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+3045.761 (7) Number of backup sets in history: 5; groups (db): 1
+3045.766 (7) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+3045.771 (7) This backup set is the backup set just made, so will not be deleted.
+3045.776 (7) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+3045.780 (7) This backup set is the backup set just made, so will not be deleted.
+3045.785 (7) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+3045.790 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3045.795 (7) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+3045.800 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3045.805 (7) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+3045.810 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3045.815 (7) Number of backup sets in history: 5; groups (files): 1
+3045.820 (7) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+3045.824 (7) This backup set is the backup set just made, so will not be deleted.
+3045.829 (7) This backup set is the backup set just made, so will not be deleted.
+3045.831 (7) This backup set is the backup set just made, so will not be deleted.
+3045.833 (7) This backup set is the backup set just made, so will not be deleted.
+3045.835 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3045.839 (7) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+3045.844 (7) This backup set is the backup set just made, so will not be deleted.
+3045.849 (7) This backup set is the backup set just made, so will not be deleted.
+3045.851 (7) This backup set is the backup set just made, so will not be deleted.
+3045.853 (7) This backup set is the backup set just made, so will not be deleted.
+3045.855 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3045.859 (7) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+3045.864 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3045.869 (7) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+3045.874 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3045.879 (7) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+3045.884 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3045.888 (7) Retain: saving new backup history (sets now: 5) and finishing retain operation
+3046.153 (7) Resume backup (0effc242bd8c, 7): finish run
+3046.163 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+3046.174 (7) No email will/can be sent - the user has not configured an email address.
+3046.179 (7) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+3047.063 (7) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+3047.075 (7) FTP upload: error (0)
+3047.080 (7) ERROR: FTP upload failed
+3047.086 (7) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip
+3048.920 (7) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+3048.933 (7) FTP upload: error (0)
+3048.940 (7) ERROR: FTP upload failed
+3048.956 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+3048.964 (7) Number of backup sets in history: 5; groups (db): 1
+3048.971 (7) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+3048.977 (7) This backup set is the backup set just made, so will not be deleted.
+3048.983 (7) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+3048.990 (7) This backup set is the backup set just made, so will not be deleted.
+3048.996 (7) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+3049.005 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3049.011 (7) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+3049.019 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3049.026 (7) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+3049.033 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3049.039 (7) Number of backup sets in history: 5; groups (files): 1
+3049.046 (7) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+3049.052 (7) This backup set is the backup set just made, so will not be deleted.
+3049.059 (7) This backup set is the backup set just made, so will not be deleted.
+3049.061 (7) This backup set is the backup set just made, so will not be deleted.
+3049.064 (7) This backup set is the backup set just made, so will not be deleted.
+3049.067 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3049.072 (7) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+3049.077 (7) This backup set is the backup set just made, so will not be deleted.
+3049.082 (7) This backup set is the backup set just made, so will not be deleted.
+3049.084 (7) This backup set is the backup set just made, so will not be deleted.
+3049.086 (7) This backup set is the backup set just made, so will not be deleted.
+3049.088 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3049.094 (7) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+3049.100 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3049.107 (7) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+3049.114 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3049.118 (7) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+3049.124 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+3049.131 (7) Retain: saving new backup history (sets now: 5) and finishing retain operation
+3049.415 (7) Resume backup (0effc242bd8c, 7): finish run
+3049.425 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+3049.436 (7) No email will/can be sent - the user has not configured an email address.
+3049.441 (7) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+3348.698 (8) Opened log file at time: Sun, 27 Nov 2016 17:51:24 +0000 on http://localhost/wordpress
+3348.704 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.23 WP: 4.6.1 PHP: 5.6.25 (apache2handler, Windows NT MED-PC 6.1 build 7601 (Windows 7 Ultimate Edition Service Pack 1) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 46.2M | 47.3M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+3348.709 (8) Free space on disk containing Updraft's temporary directory: 1230.1 MB
+3348.720 (8) Backup run: resumption=8, nonce=0effc242bd8c, begun at=1480265736 (3348s ago), job type=backup
+3348.731 (8) Scheduling a resumption (9) after 300 seconds (1480269384) in case this run gets aborted
+3348.761 (8) Checking if we have a zip executable available
+3348.766 (8) Creation of backups of directories: already finished
+3348.773 (8) Saving backup status to database (elements: 8)
+3348.785 (8) Database dump (WordPress DB): Creation was completed already
+3348.803 (8) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+3348.808 (8) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+3348.814 (8) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+3348.819 (8) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip: others: This file has not yet been successfully uploaded: will queue
+3348.824 (8) backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz: db: This file has already been successfully uploaded
+3348.828 (8) Saving backup history. Total backup size: Unknown
+3348.841 (8) Requesting upload of the files that have not yet been successfully uploaded (4)
+3348.852 (8) Cloud backup selection (1/1): ftp (last)
+3348.861 (8) Beginning dispatch of backup to remote (ftp)
+3350.542 (8) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip
+3351.772 (8) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+3351.784 (8) FTP upload: error (0)
+3351.789 (8) ERROR: FTP upload failed
+3351.793 (8) An error condition has occurred for the first time during this job
+3351.798 (8) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip
+3353.024 (8) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+3353.035 (8) FTP upload: error (0)
+3353.040 (8) ERROR: FTP upload failed
+3353.045 (8) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip
+3354.362 (8) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+3354.374 (8) FTP upload: error (0)
+3354.379 (8) ERROR: FTP upload failed
+3354.384 (8) FTP upload attempt: backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip -> ftp://simplelilg@ftp.cluster020.hosting.ovh.net/ftp://simplelilg@ftp.cluster020.hosting.ovh.net/sauvegarde/backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip
+3355.688 (8) PHP event: code E_WARNING: ftp_nb_fput(): Can't open that file: No such file or directory (line 78, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+3355.700 (8) FTP upload: error (0)
+3355.705 (8) ERROR: FTP upload failed
+3355.718 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+3355.724 (8) Number of backup sets in history: 5; groups (db): 1
+3355.729 (8) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+3355.734 (8) This backup set is the backup set just made, so will not be deleted.
+3355.739 (8) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+3355.744 (8) This backup set is the backup set just made, so will not be deleted.
+3355.748 (8) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+3355.753 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+3355.758 (8) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+3355.763 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+3355.768 (8) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+3355.773 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+3355.778 (8) Number of backup sets in history: 5; groups (files): 1
+3355.783 (8) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+3355.787 (8) This backup set is the backup set just made, so will not be deleted.
+3355.792 (8) This backup set is the backup set just made, so will not be deleted.
+3355.794 (8) This backup set is the backup set just made, so will not be deleted.
+3355.796 (8) This backup set is the backup set just made, so will not be deleted.
+3355.798 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+3355.802 (8) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+3355.807 (8) This backup set is the backup set just made, so will not be deleted.
+3355.812 (8) This backup set is the backup set just made, so will not be deleted.
+3355.814 (8) This backup set is the backup set just made, so will not be deleted.
+3355.816 (8) This backup set is the backup set just made, so will not be deleted.
+3355.818 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+3355.822 (8) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+3355.827 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+3355.832 (8) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+3355.837 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+3355.842 (8) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+3355.847 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+3355.852 (8) Retain: saving new backup history (sets now: 5) and finishing retain operation
+3356.082 (8) Resume backup (0effc242bd8c, 8): finish run
+3356.088 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+3356.100 (8) No email will/can be sent - the user has not configured an email address.
+3356.104 (8) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+3656.131 (9) Opened log file at time: Sun, 27 Nov 2016 17:56:32 +0000 on http://localhost/wordpress
+3656.137 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.23 WP: 4.6.1 PHP: 5.6.25 (apache2handler, Windows NT MED-PC 6.1 build 7601 (Windows 7 Ultimate Edition Service Pack 1) AMD64) MySQL: 5.7.14 WPLANG: fr_FR Server: Apache/2.4.23 (Win64) PHP/5.6.25 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 46M | 47.3M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+3656.142 (9) Free space on disk containing Updraft's temporary directory: 1233.3 MB
+3656.153 (9) Backup run: resumption=9, nonce=0effc242bd8c, begun at=1480265736 (3656s ago), job type=backup
+3656.164 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+3656.187 (9) Creation of backups of directories: already finished
+3656.194 (9) Saving backup status to database (elements: 8)
+3656.206 (9) Database dump (WordPress DB): Creation was completed already
+3656.224 (9) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+3656.229 (9) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+3656.235 (9) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+3656.240 (9) backup_2016-11-27-1755_BlogMusculation_22aeac17015e-others.zip: others: This file has not yet been successfully uploaded: will queue
+3656.245 (9) backup_2016-11-27-1755_BlogMusculation_0effc242bd8c-db.gz: db: This file has already been successfully uploaded
+3656.249 (9) Saving backup history. Total backup size: Unknown
+3656.262 (9) Requesting upload of the files that have not yet been successfully uploaded (4)
+3656.273 (9) Cloud backup selection (1/1): ftp (last)
+3656.281 (9) Beginning dispatch of backup to remote (ftp)
+3656.331 (9) PHP event: code E_WARNING: ftp_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  (line 30, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\includes\ftp.class.php)
+3656.342 (9) FTP Failure: we did not successfully log in with those credentials.
+3656.347 (9) An error condition has occurred for the first time during this job
+3656.359 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+3656.366 (9) Number of backup sets in history: 5; groups (db): 1
+3656.371 (9) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+3656.376 (9) This backup set is the backup set just made, so will not be deleted.
+3656.381 (9) Examining (for databases) backup set with group_id=0, nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+3656.386 (9) This backup set is the backup set just made, so will not be deleted.
+3656.391 (9) Examining (for databases) backup set with group_id=0, nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+3656.396 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3656.400 (9) Examining (for databases) backup set with group_id=0, nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+3656.405 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3656.410 (9) Examining (for databases) backup set with group_id=0, nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+3656.415 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3656.420 (9) Number of backup sets in history: 5; groups (files): 1
+3656.425 (9) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480266438 (Nov 27 2016 17:07:18)
+3656.430 (9) This backup set is the backup set just made, so will not be deleted.
+3656.434 (9) This backup set is the backup set just made, so will not be deleted.
+3656.436 (9) This backup set is the backup set just made, so will not be deleted.
+3656.438 (9) This backup set is the backup set just made, so will not be deleted.
+3656.440 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3656.445 (9) Examining (for files) backup set with nonce=0effc242bd8c, datestamp=1480265736 (Nov 27 2016 16:55:36)
+3656.450 (9) This backup set is the backup set just made, so will not be deleted.
+3656.454 (9) This backup set is the backup set just made, so will not be deleted.
+3656.456 (9) This backup set is the backup set just made, so will not be deleted.
+3656.458 (9) This backup set is the backup set just made, so will not be deleted.
+3656.461 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3656.465 (9) Examining (for files) backup set with nonce=26c2e7337abe, datestamp=1480264919 (Nov 27 2016 16:41:59)
+3656.470 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3656.475 (9) Examining (for files) backup set with nonce=5d7c0f5cba99, datestamp=1475872123 (Oct 07 2016 20:28:43)
+3656.480 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3656.485 (9) Examining (for files) backup set with nonce=9a168dbe1cf2, datestamp=1474723477 (Sep 24 2016 13:24:37)
+3656.490 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3656.494 (9) Retain: saving new backup history (sets now: 5) and finishing retain operation
+3656.508 (9) Resume backup (0effc242bd8c, 9): finish run
+3656.517 (9) There were errors in the uploads, so the 'resume' event is remaining scheduled
+3656.529 (9) No email will/can be sent - the user has not configured an email address.
+3656.533 (9) La tentative de sauvegarde est terminée, apparemment sans succès

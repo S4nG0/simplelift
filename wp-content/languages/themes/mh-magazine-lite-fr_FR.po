@@ -1,0 +1,735 @@
+# Translation of Themes - MH Magazine lite in French (France)
+# This file is distributed under the same license as the Themes - MH Magazine lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-05 13:24:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - MH Magazine lite\n"
+
+#. #-#-#-#-#  mh-magazine-lite.pot (MH Magazine lite 2.5.5)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: admin/admin.php:184
+msgid "MH Magazine lite"
+msgstr "MH Magazine lite"
+
+#: includes/mh-customizer.php:86
+msgid "More Features &amp; Options"
+msgstr "Plus de fonctionnalités &amp; options"
+
+#: admin/admin.php:301
+msgid "Personal E-Mail Support"
+msgstr "Support personnel par e-mail"
+
+#: admin/admin.php:299
+msgid "Support"
+msgstr "Support"
+
+#: admin/admin.php:294
+msgid "Extended Features"
+msgstr "Fonctionnalités étendues"
+
+#: admin/admin.php:289
+msgid "Typography Options"
+msgstr "Options de typographie"
+
+#: admin/admin.php:284
+msgid "Google Webfonts Collection"
+msgstr "Collection de Polices Google"
+
+#: admin/admin.php:279
+msgid "Color Options"
+msgstr "Options de couleur"
+
+#: admin/admin.php:275
+msgid "Basic Options"
+msgstr "Options basiques"
+
+#: admin/admin.php:269
+msgid "Advertising Options"
+msgstr "Options publicitaires"
+
+#: admin/admin.php:264
+msgid "Related Posts Feature"
+msgstr "Fonctionnalité d’articles Similaires"
+
+#: admin/admin.php:259
+msgid "Built-in Social Buttons"
+msgstr "Boutons sociaux prédéfinis"
+
+#: admin/admin.php:254
+msgid "Built-in Breadcrumb Navigation"
+msgstr "Navigation fil d'Ariane prédéfinie"
+
+#: admin/admin.php:249
+msgid "FlexSlider 2 with Touch Support"
+msgstr "FlexSlider 2 avec Touch Support"
+
+#: admin/admin.php:244
+msgid "jQuery News Ticker"
+msgstr "Bandeau de nouvelles jQuery"
+
+#: admin/admin.php:239
+msgid "Transparent Header"
+msgstr "En-tête transparent"
+
+#: admin/admin.php:236
+msgid "5"
+msgstr "5"
+
+#: admin/admin.php:235
+msgid "1"
+msgstr "1"
+
+#: admin/admin.php:234
+msgid "Custom Menus"
+msgstr "Menus personnalisés"
+
+#: admin/admin.php:231
+msgid "23 (Full Features)"
+msgstr "23 (Fonctions complètes)"
+
+#: admin/admin.php:230
+msgid "6 (Basic Features)"
+msgstr "6 (Fonctions basiques)"
+
+#: admin/admin.php:229
+msgid "Custom Widgets"
+msgstr "Widgets personnalisés"
+
+#: admin/admin.php:226
+msgid "26"
+msgstr "26"
+
+#: admin/admin.php:225
+msgid "12"
+msgstr "12"
+
+#: admin/admin.php:224
+msgid "Total Widget Areas"
+msgstr "Total de zones de widget"
+
+#: admin/admin.php:219
+msgid "Homepage Template"
+msgstr "Modèle de page d'accueil"
+
+#: admin/admin.php:214
+msgid "Second Sidebar"
+msgstr "Seconde barre"
+
+#: admin/admin.php:209
+msgid "Extended Layout Options"
+msgstr "Options avancées de mise en page"
+
+#: admin/admin.php:204
+msgid "Responsive Layout"
+msgstr "Mise en page responsive"
+
+#: admin/admin.php:201
+msgid "max. 1080px / 1431px"
+msgstr "max. 1080px / 1431 pixels"
+
+#: admin/admin.php:200
+msgid "max. 1080px"
+msgstr "max. 1080 pixels"
+
+#: admin/admin.php:199
+msgid "Site Width"
+msgstr "Largeur du site"
+
+#: admin/admin.php:194
+msgid "View Pricing"
+msgstr "Voir le prix"
+
+#: admin/admin.php:191
+msgid "Free"
+msgstr "Gratuit"
+
+#: admin/admin.php:190
+msgid "Theme Price"
+msgstr "Prix du thème"
+
+#: admin/admin.php:185
+msgid "MH Magazine"
+msgstr "MH Magazine"
+
+#: admin/admin.php:183
+msgid "Features"
+msgstr "Fonctionnalités"
+
+#: admin/admin.php:178
+msgid "Upgrade to MH Magazine for more awesome features:"
+msgstr "Montez en niveau avec MH Magazine pour de formidables fonctionnalités :"
+
+#: admin/admin.php:165 includes/mh-customizer.php:57
+msgid "Theme Demos"
+msgstr "Démos du thème"
+
+#: admin/admin.php:161
+msgid "The premium version of MH Magazine includes lots of additional features and options to customize your website. We have created several theme demos as examples in order to show what is possible with this flexible magazine theme."
+msgstr "La version payante de MH Magazine inclus beaucoup de fonctions additionnelles et d’options pour personnaliser votre site. Nous avons créé plusieurs démonstrations pour montrer ce qu’il est possible de faire avec ce thème magazine flexible."
+
+#: admin/admin.php:158
+msgid "MH Magazine Theme Demos"
+msgstr "Démos du thème MH Magazine"
+
+#: admin/admin.php:97 admin/admin.php:168 includes/mh-customizer.php:62
+msgid "MH Themes Showcase"
+msgstr "Vitrine de thèmes MH"
+
+#: admin/admin.php:49
+msgid "Thanks for using %s! To get started please make sure you visit our %swelcome page%s."
+msgstr "Merci d’utiliser %s ! Pour commencer, visitez notre %spage de bienvenue%s."
+
+#: admin/admin.php:46
+msgid "Dismiss this notice."
+msgstr "Retirer cette notice."
+
+#: admin/admin.php:29
+msgid "You do not have the necessary permission to perform this action."
+msgstr "Vous n’avez pas les permissions nécessaires pour effectuer cette action."
+
+#: admin/admin.php:26
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Action échouée. Actualisez la page et essayez à nouveau."
+
+#: includes/mh-custom-functions.php:213 includes/mh-custom-functions.php:216
+msgid "Next"
+msgstr "Suivant"
+
+#: includes/mh-custom-functions.php:199 includes/mh-custom-functions.php:206
+msgid "Previous"
+msgstr "Précédent"
+
+#: includes/mh-custom-functions.php:102
+msgid "Articles by %s"
+msgstr "Articles par %s"
+
+#: content-none.php:4
+msgid "Nothing found"
+msgstr "Rien de trouvé"
+
+#: comments.php:30
+msgid "1 Trackback / Pingback"
+msgid_plural "%1$s Trackbacks / Pingbacks"
+msgstr[0] "1 Rétrolien / Ping"
+msgstr[1] "%1$s Rétroliens / Pings"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Pleine largeur"
+
+#: homepage.php:23 homepage.php:41 homepage.php:64 sidebar.php:12
+msgid "Appearance &#8594; Widgets"
+msgstr "Apparence &#8594; Widgets"
+
+#: homepage.php:23 homepage.php:41 homepage.php:64 sidebar.php:12
+msgid "Please navigate to %1s in your WordPress dashboard and add some widgets into the %1s widget area."
+msgstr "Veuillez vous diriger vers %1s dans votre tableau de bord WordPress et ajouter quelques widgets dans la zone de widget %1s."
+
+#: includes/widgets/mh-slider.php:140
+msgid "Large"
+msgstr "Grand"
+
+#: includes/widgets/mh-slider.php:139
+msgid "Normal"
+msgstr "Moyen"
+
+#: includes/widgets/mh-slider.php:137
+msgid "Image size:"
+msgstr "Taille d'image&nbsp;:"
+
+#: includes/widgets/mh-posts-stacked.php:11
+msgid "MH Posts Stacked widget to display 5 stacked posts nicely including thumbnail, title and meta data."
+msgstr "Le widget MH Articles empilés affiche 5 articles empilés avec une miniature, un titre et les méta de l’article."
+
+#: includes/widgets/mh-posts-stacked.php:8
+msgctxt "widget name"
+msgid "MH Posts Stacked [lite]"
+msgstr "MH Posts Stacked [lite]"
+
+#: includes/widgets/mh-posts-focus.php:65
+#: includes/widgets/mh-posts-focus.php:93
+#: includes/widgets/mh-posts-stacked.php:60
+#: includes/widgets/mh-posts-stacked.php:90 includes/widgets/mh-slider.php:52
+#: includes/widgets/mh-slider.php:54
+msgid "No Picture"
+msgstr "Aucune image"
+
+#: includes/widgets/mh-posts-focus.php:11
+msgid "MH Posts Focus widget to display 5 posts with focus on large post in the middle (if placed in full-width widget area)."
+msgstr "Le widget MH Focus d’articles affiche 5 articles en grand dans le milieu (si placé dans la zone de widget en pleine largeur)."
+
+#: includes/widgets/mh-posts-focus.php:8
+msgctxt "widget name"
+msgid "MH Posts Focus [lite]"
+msgstr "MH Posts Focus [lite]"
+
+#: functions.php:121
+msgctxt "widget area name"
+msgid "Home %d - Full Width"
+msgstr "Accueil %d - Pleine largeur"
+
+#: includes/widgets/mh-tabbed.php:76
+msgid "No comments found"
+msgstr "Pas de commentaires"
+
+#: includes/widgets/mh-tabbed.php:11
+msgid "MH Tabbed widget showing your latest posts, tags and comments."
+msgstr "Le widget MH Onglets affiche vos articles récents, étiquettes et commentaires."
+
+#: includes/widgets/mh-tabbed.php:8
+msgctxt "widget name"
+msgid "MH Tabbed [lite]"
+msgstr "MH Tabbed [lite]"
+
+#: includes/widgets/mh-posts-large.php:11
+msgid "MH Posts Large widget to display posts (large-sized) including thumbnail images."
+msgstr "Le widget MH Articles grands affiche les articles en grande taille avec les images de miniatures."
+
+#: includes/widgets/mh-posts-large.php:8
+msgctxt "widget name"
+msgid "MH Posts Large [lite]"
+msgstr "MH Posts Large [lite]"
+
+#: includes/widgets/mh-custom-posts.php:143
+#: includes/widgets/mh-posts-focus.php:176
+#: includes/widgets/mh-posts-large.php:110
+#: includes/widgets/mh-posts-stacked.php:165 includes/widgets/mh-slider.php:148
+#: includes/widgets/mh-tabbed.php:97
+msgid "This is the lite version of this widget with basic features. More features and options are available in the premium version of MH Magazine."
+msgstr "Ceci est la version lite de ce widget avec des fonctions basiques. Plus d’options et de fonctionnalités sont disponibles dans la version premium de MH Magazine."
+
+#: content-large.php:8 includes/widgets/mh-custom-posts.php:58
+msgid "No Image"
+msgstr "Aucune image"
+
+#: admin/admin.php:77
+msgid "Theme Screenshot"
+msgstr "Capture d’écran du thème"
+
+#: includes/mh-customizer.php:47
+msgid "News ticker and many more..."
+msgstr "Bandeau de nouvelles et plus encore"
+
+#: includes/mh-customizer.php:44
+msgid "Social buttons, related articles, ..."
+msgstr "Boutons sociaux, articles similaires..."
+
+#: includes/mh-customizer.php:41
+msgid "Advanced advertising options"
+msgstr "Options avancées de publicité"
+
+#: includes/mh-customizer.php:38
+msgid "Additional custom menu slots"
+msgstr "Emplacements additionnels de menu personnalisé"
+
+#: includes/mh-customizer.php:35
+msgid "Extended layout options"
+msgstr "Options avancées de mise en page"
+
+#: includes/mh-customizer.php:32
+msgid "Additional custom widgets"
+msgstr "Widgets personnalisés additionnels"
+
+#: includes/mh-customizer.php:29
+msgid "Several additional widget areas"
+msgstr "Plusieurs zones de widget additionnelles"
+
+#: includes/mh-customizer.php:26
+msgid "Typography options"
+msgstr "Options de typographie"
+
+#: includes/mh-customizer.php:23
+msgid "Options to modify color scheme"
+msgstr "Options pour modifier la couleur du thème"
+
+#: includes/mh-customizer.php:19
+msgid "Additional Features:"
+msgstr "Fonctionnalités additionnelles&nbsp;:"
+
+#: admin/admin.php:94 admin/admin.php:121 admin/admin.php:300
+#: includes/mh-customizer.php:72
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: admin/admin.php:151 admin/admin.php:308 includes/mh-customizer.php:52
+msgid "Upgrade to MH Magazine Pro"
+msgstr "Mettez à jour vers MH Magazine pro"
+
+#: admin/admin.php:318
+msgid "%1s is proudly brought to you by %2s. If you like %3s: %4s."
+msgstr "%1s est fièrement réalisé par %2s. Si vous l’aimez %3s: %4s."
+
+#: admin/admin.php:147 includes/mh-customizer.php:16
+msgid "If you like the free version of this theme, you will LOVE the full version of MH Magazine which includes unique custom widgets, additional features and more useful options to customize your website."
+msgstr "Si vous aimez la version gratuite de ce thème, vous aimerez la version complète de MH Magazine qui comprend des widgets personnalisés, des fonctions additionnelles utilises pour personnaliser votre site."
+
+#: admin/admin.php:144 includes/mh-customizer.php:13
+msgid "MH Magazine Pro"
+msgstr "MH Magazine Pro"
+
+#: admin/admin.php:114
+msgid "Need any help with configuring %s? The documentation for this theme includes all theme related information that is needed to get your site up and running in no time. In case you have any additional questions, feel free to reach out in the theme support forums on WordPress.org."
+msgstr "Besoin d’aide pour configurer %s? La documentation de ce thème comprend toutes les informations nécessaires pour que votre site fonctionne rapidement. En cas de questions supplémentaires, vous pouvez consulter les forums de support du thème sur WordPress.org."
+
+#: includes/widgets/mh-custom-posts.php:135
+#: includes/widgets/mh-posts-focus.php:172
+#: includes/widgets/mh-posts-large.php:106
+#: includes/widgets/mh-posts-stacked.php:161 includes/widgets/mh-slider.php:133
+msgid "Skip Posts (max. 50):"
+msgstr "Articles ignorés (max 50)&nbsp;:"
+
+#: includes/widgets/mh-custom-posts.php:131
+#: includes/widgets/mh-posts-large.php:102 includes/widgets/mh-slider.php:129
+msgid "Post Count (max. 50):"
+msgstr "Nombre d'articles (max 50)&nbsp;:"
+
+#: includes/widgets/mh-custom-posts.php:124
+#: includes/widgets/mh-posts-focus.php:165
+#: includes/widgets/mh-posts-large.php:95
+#: includes/widgets/mh-posts-stacked.php:154 includes/widgets/mh-slider.php:122
+msgid "Select a category to display posts from."
+msgstr "Sélectionnez une catégorie pour l’affichage des articles."
+
+#: includes/mh-customizer.php:104
+msgid "Post/Attachment Navigation"
+msgstr "Navigation d’article / fichier joint"
+
+#: includes/mh-customizer.php:103 includes/mh-customizer.php:104
+#: includes/mh-customizer.php:130
+msgid "Disable"
+msgstr "Désactiver"
+
+#: includes/mh-customizer.php:103 includes/mh-customizer.php:104
+#: includes/mh-customizer.php:129
+msgid "Enable"
+msgstr "Permettre"
+
+#: includes/mh-customizer.php:103
+msgid "Author Box"
+msgstr "Boîte Auteur"
+
+#: includes/mh-customizer.php:85
+msgid "Layout"
+msgstr "Apparence"
+
+#: includes/mh-customizer.php:84
+msgid "General"
+msgstr "Principal"
+
+#: includes/mh-custom-functions.php:284
+msgid "Edit"
+msgstr "Modifier configuration"
+
+#: includes/mh-custom-functions.php:197 includes/mh-custom-functions.php:202
+msgid "Back to article"
+msgstr "Retour vers l’article"
+
+#: content-author-box.php:16
+msgid "%s Article"
+msgid_plural "%s Articles"
+msgstr[0] "%s Article"
+msgstr[1] "%s Articles"
+
+#: content-author-box.php:15
+msgid "More articles written by %s"
+msgstr "Plus d’articles rédigés par %s"
+
+#: content-author-box.php:11
+msgid "About %s"
+msgstr "A propos de %s"
+
+#: comments.php:57
+msgid "Leave a Reply"
+msgstr "Poster un Commentaire"
+
+#: comments.php:50
+msgid "Be the first to comment"
+msgstr "Soyez le premier à commenter"
+
+#: includes/widgets/mh-custom-posts.php:143
+#: includes/widgets/mh-posts-focus.php:176
+#: includes/widgets/mh-posts-large.php:110
+#: includes/widgets/mh-posts-stacked.php:165 includes/widgets/mh-slider.php:148
+#: includes/widgets/mh-tabbed.php:97
+msgid "Info:"
+msgstr "Info&nbsp;:"
+
+#: functions.php:129 functions.php:130 functions.php:131 functions.php:132
+msgctxt "widget area name"
+msgid "Footer %d - 1/4 Width"
+msgstr "Pied %d - Largeur 1/4"
+
+#: functions.php:127 functions.php:128
+msgctxt "widget area name"
+msgid "Posts %d - Advertisement"
+msgstr "Articles %d - Publicité"
+
+#: functions.php:123 functions.php:124 functions.php:126 homepage.php:19
+#: homepage.php:23 homepage.php:37 homepage.php:41 homepage.php:60
+#: homepage.php:64
+msgctxt "widget area name"
+msgid "Home %d - 1/3 Width"
+msgstr "Accueil %d - Largeur 1/3"
+
+#: functions.php:122 functions.php:125
+msgctxt "widget area name"
+msgid "Home %d - 2/3 Width"
+msgstr "Accueil %d - Largeur 2/3"
+
+#: footer.php:30
+msgid "Copyright &copy; %1$s | WordPress Theme by %2$s"
+msgstr "Copyright &copy; %1$s | Thème WordPress par %2$s"
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+#: includes/mh-customizer.php:100
+msgid "Custom excerpt length in words"
+msgstr "Longueur personnalisée de l’extrait en mots"
+
+#: includes/widgets/mh-slider.php:11
+msgid "Slider widget for use on homepage template."
+msgstr "Sélectionner le widget à utiliser sur votre modèle de page d’accueil."
+
+#: includes/widgets/mh-slider.php:8
+msgctxt "widget name"
+msgid "MH Slider Widget [lite]"
+msgstr "MH Slider Widget [lite]"
+
+#: includes/widgets/mh-custom-posts.php:140 includes/widgets/mh-slider.php:145
+msgid "Ignore Sticky Posts"
+msgstr "Ignorer les articles épinglés"
+
+#: includes/widgets/mh-custom-posts.php:127
+#: includes/widgets/mh-posts-focus.php:168
+#: includes/widgets/mh-posts-large.php:98
+#: includes/widgets/mh-posts-stacked.php:157 includes/widgets/mh-slider.php:125
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr "Filtrer les articles par étiquettes (Ex: Style de vie)&nbsp;:"
+
+#: includes/widgets/mh-custom-posts.php:118
+#: includes/widgets/mh-posts-focus.php:159
+#: includes/widgets/mh-posts-large.php:89
+#: includes/widgets/mh-posts-stacked.php:148 includes/widgets/mh-slider.php:116
+msgid "All"
+msgstr "Tout"
+
+#: includes/widgets/mh-custom-posts.php:116
+#: includes/widgets/mh-posts-focus.php:157
+#: includes/widgets/mh-posts-large.php:87
+#: includes/widgets/mh-posts-stacked.php:146 includes/widgets/mh-slider.php:114
+msgid "Select a Category:"
+msgstr "Sélectionner une catégorie&nbsp;:"
+
+#: includes/widgets/mh-custom-posts.php:11
+msgid "Custom Posts Widget to display posts based on categories or tags."
+msgstr "Widget ëgarticle personnalisé pour afficher les articles depuis des catégories ou des étiquettes."
+
+#: includes/widgets/mh-custom-posts.php:8
+msgctxt "widget name"
+msgid "MH Custom Posts [lite]"
+msgstr "MH Custom Posts [lite]"
+
+#: includes/widgets/mh-custom-posts.php:112
+#: includes/widgets/mh-posts-focus.php:153
+#: includes/widgets/mh-posts-large.php:83
+#: includes/widgets/mh-posts-stacked.php:142 includes/widgets/mh-tabbed.php:93
+msgid "Title:"
+msgstr "Titre&nbsp;:"
+
+#: includes/mh-customizer.php:106
+msgid "Scale background image to full size"
+msgstr "Echelle de l'image de fond à taille réelle"
+
+#: includes/mh-customizer.php:102 includes/mh-customizer.php:128
+msgid "Right"
+msgstr "Droite"
+
+#: includes/mh-customizer.php:102 includes/mh-customizer.php:127
+msgid "Left"
+msgstr "Gauche"
+
+#: includes/mh-customizer.php:102
+msgid "Position of default sidebar"
+msgstr "Position par défaut de la barre latérale"
+
+#: includes/mh-customizer.php:101
+msgid "Custom excerpt more text"
+msgstr "Texte personnalisé pour lire la suite de l’extrait"
+
+#: includes/mh-custom-functions.php:303
+msgid "Website"
+msgstr "Site web"
+
+#: includes/mh-custom-functions.php:302
+msgid "Email "
+msgstr "Adresse de contact"
+
+#: includes/mh-custom-functions.php:301
+msgid "Name "
+msgstr "Nom"
+
+#: includes/mh-custom-functions.php:277
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: includes/mh-custom-functions.php:271
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: includes/mh-compatibility.php:40 search.php:8
+msgid "Search Results for %s"
+msgstr "Résultats de la recherche pour «%s»"
+
+#: 404.php:7 includes/mh-compatibility.php:38
+msgid "Page not found (404)"
+msgstr "Page non trouvée (404)"
+
+#: includes/mh-compatibility.php:32
+msgid "Archives"
+msgstr "Archives"
+
+#: includes/mh-compatibility.php:20
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr "Articles par %s"
+
+#: functions.php:129 functions.php:130 functions.php:131 functions.php:132
+msgid "Widget area in footer."
+msgstr "Zone de widget de pied de page."
+
+#: functions.php:128
+msgid "Widget area below single post content."
+msgstr "Zone de widget au dessous du contenu d'article."
+
+#: functions.php:127
+msgid "Widget area above single post content."
+msgstr "Zone de widget au dessus du contenu d'article."
+
+#: functions.php:121 functions.php:122 functions.php:123 functions.php:124
+#: functions.php:125 functions.php:126
+msgid "Widget area on homepage."
+msgstr "Zone de widget sur la page d'accueil."
+
+#: functions.php:120
+msgid "Widget area (sidebar left/right) on single posts, pages and archives."
+msgstr "Zone de widget (barre latérale gauche/droite) sur les articles, pages et archives."
+
+#: functions.php:120 sidebar.php:8 sidebar.php:12
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: functions.php:60
+msgid "Main Navigation"
+msgstr "Navigation principale"
+
+#: comments.php:12
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Commentaire"
+msgstr[1] "%1$s Commentaires"
+
+#: 404.php:22 content-none.php:25
+msgid "Recent Articles"
+msgstr "Articles récents"
+
+#: 404.php:16 content-none.php:19
+msgid "Search"
+msgstr "Rechercher"
+
+#: 404.php:12 content-none.php:14
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que ce que vous cherchez est introuvable. Essayez avec une recherche."
+
+#: content-none.php:10
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Désolé, mais rien ne correspond à votre critère de recherche. Veuillez réessayer avec d&rsquo;autres mots-clés."
+
+#: comments.php:58
+msgid "Your email address will not be published."
+msgstr "Votre adresse de messagerie ne sera pas publiée."
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:22 includes/mh-custom-functions.php:330
+#: includes/mh-custom-functions.php:346
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: comments.php:22 includes/mh-custom-functions.php:329
+#: includes/mh-custom-functions.php:346
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: comments.php:60
+msgid "Comment"
+msgstr "Commentaire"
+
+#: admin/admin.php:135
+msgid "Customize Theme"
+msgstr "Customiser le thème"
+
+#: admin/admin.php:131
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize Theme\" to open the Customizer now."
+msgstr "%s supporte la personnalisation de thème pour tous les réglages du thème. Cliquez sur \"Personnaliser\" pour commencer."
+
+#: admin/admin.php:128 admin/admin.php:274 includes/mh-customizer.php:80
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: admin/admin.php:111 admin/admin.php:118 includes/mh-customizer.php:67
+msgid "Theme Documentation"
+msgstr "Documentation du thème"
+
+#: admin/admin.php:52 admin/admin.php:104
+msgid "Get Started with %s"
+msgstr "Démarrer avec %s"
+
+#: admin/admin.php:318
+msgid "Rate this theme"
+msgstr "Notez ce th&egrave;me"
+
+#: admin/admin.php:91
+msgid "Support Center"
+msgstr "Centre de support"
+
+#: admin/admin.php:88
+msgid "Theme Info Page"
+msgstr "Page d'info du thème"
+
+#: admin/admin.php:86
+msgid "Important Links:"
+msgstr "Liens importants:"
+
+#: admin/admin.php:73
+msgid "Welcome to %1s %2s"
+msgstr "Bienvenue à %1s %2s"
+
+#: admin/admin.php:63
+msgid "Theme Info"
+msgstr "Information du thème"
+
+#: admin/admin.php:63
+msgid "Welcome to MH Magazine lite"
+msgstr "Bienvenue dans MH Magazine lite"
+
+#. Author URI of the plugin/theme
+msgid "http://www.mhthemes.com/"
+msgstr "http://www.mhthemes.com/"
+
+#. Author of the plugin/theme
+msgid "MH Themes"
+msgstr "MH Themes"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.mhthemes.com/themes/mh/magazine-lite/"
+msgstr "http://www.mhthemes.com/themes/mh/magazine-lite/"
