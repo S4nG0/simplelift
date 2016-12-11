@@ -52,35 +52,37 @@ $current_options = wp_parse_args(  get_option( 'wallstreet_pro_options', array()
 
 					<div class="home-portfolio-showcase-media">
 
-					
+						<a href="<?php echo get_permalink( $current_options['portfolio_post_id_one'] ); ?>">
 
-						<img class="img-responsive home-portfolio-img" alt="Sleek &amp; Beautiful" src="<?php echo esc_url($current_options['portfolio_image_one']); ?>">
+							<img class="img-responsive home-portfolio-img" alt="Sleek &amp; Beautiful" src="<?php echo esc_url($current_options['portfolio_image_one']); ?>">
 
-					
+							<div class="home-portfolio-showcase-overlay">
 
-						<div class="home-portfolio-showcase-overlay">
+								<div class="home-portfolio-showcase-overlay-inner">
 
-							<div class="home-portfolio-showcase-overlay-inner">
+									<div class="home-portfolio-showcase-detail">
 
-								<div class="home-portfolio-showcase-detail">
+										<?php if($current_options['portfolio_title_one']){ ?>
 
-									<?php if($current_options['portfolio_title_one']){ ?>
+										<h4><?php echo esc_html($current_options['portfolio_title_one']); ?></h4>
 
-									<h4><?php echo esc_html($current_options['portfolio_title_one']); ?></h4>
+										<?php } ?>
 
-									<?php } ?>
+										<?php if($current_options['portfolio_description_one']){ ?>
 
-									<?php if($current_options['portfolio_description_one']){ ?>
+										<p><?php echo esc_html($current_options['portfolio_description_one']);?></p>
 
-									<p><?php echo esc_html($current_options['portfolio_description_one']);?></p>
+										<?php } ?>
 
-									<?php } ?>
+									</div>
 
 								</div>
 
 							</div>
+							
+						</a>
 
-						</div>
+
 
 					</div>
 
@@ -98,35 +100,35 @@ $current_options = wp_parse_args(  get_option( 'wallstreet_pro_options', array()
 
 					<div class="home-portfolio-showcase-media">
 
-					
+						<a href="<?php echo get_permalink( $current_options['portfolio_post_id_two'] ); ?>">					
 
-						<img class="img-responsive home-portfolio-img" alt="Sleek &amp; Beautiful" src="<?php echo esc_url($current_options['portfolio_image_two']); ?>">
+							<img class="img-responsive home-portfolio-img" alt="Sleek &amp; Beautiful" src="<?php echo esc_url($current_options['portfolio_image_two']); ?>">					
 
-					
+							<div class="home-portfolio-showcase-overlay">
 
-						<div class="home-portfolio-showcase-overlay">
+								<div class="home-portfolio-showcase-overlay-inner">
 
-							<div class="home-portfolio-showcase-overlay-inner">
+									<div class="home-portfolio-showcase-detail">
 
-								<div class="home-portfolio-showcase-detail">
+										<?php if($current_options['portfolio_title_two']){ ?>
 
-									<?php if($current_options['portfolio_title_two']){ ?>
+										<h4><?php echo esc_html($current_options['portfolio_title_two']); ?></h4>
 
-									<h4><?php echo esc_html($current_options['portfolio_title_two']); ?></h4>
+										<?php } ?>
 
-									<?php } ?>
+										<?php if($current_options['portfolio_description_two']){ ?>
 
-									<?php if($current_options['portfolio_description_two']){ ?>
+										<p><?php echo esc_html($current_options['portfolio_description_two']);?></p>
 
-									<p><?php echo esc_html($current_options['portfolio_description_two']);?></p>
+										<?php } ?>
 
-									<?php } ?>
+									</div>
 
 								</div>
 
 							</div>
 
-						</div>
+						</a>
 
 					</div>
 
@@ -144,35 +146,35 @@ $current_options = wp_parse_args(  get_option( 'wallstreet_pro_options', array()
 
 					<div class="home-portfolio-showcase-media">
 
-					
+						<a href="<?php echo get_permalink( $current_options['portfolio_post_id_three'] ); ?>">					
 
-						<img class="img-responsive home-portfolio-img" alt="Sleek &amp; Beautiful" src="<?php echo esc_url($current_options['portfolio_image_three']); ?>">
+							<img class="img-responsive home-portfolio-img" alt="Sleek &amp; Beautiful" src="<?php echo esc_url($current_options['portfolio_image_three']); ?>">				
 
-				
+							<div class="home-portfolio-showcase-overlay">
 
-						<div class="home-portfolio-showcase-overlay">
+								<div class="home-portfolio-showcase-overlay-inner">
 
-							<div class="home-portfolio-showcase-overlay-inner">
+									<div class="home-portfolio-showcase-detail">
 
-								<div class="home-portfolio-showcase-detail">
+										<?php if($current_options['portfolio_title_three']){ ?>
 
-									<?php if($current_options['portfolio_title_three']){ ?>
+										<h4><?php echo esc_html($current_options['portfolio_title_three']); ?></h4>
 
-									<h4><?php echo esc_html($current_options['portfolio_title_three']); ?></h4>
+										<?php } ?>
 
-									<?php } ?>
+										<?php if($current_options['portfolio_description_three']){ ?>
 
-									<?php if($current_options['portfolio_description_three']){ ?>
+										<p><?php echo esc_html($current_options['portfolio_description_three']);?></p>
 
-									<p><?php echo esc_html($current_options['portfolio_description_three']);?></p>
+										<?php } ?>
 
-									<?php } ?>
+									</div>
 
 								</div>
 
 							</div>
 
-						</div>
+						</a>
 
 					</div>
 
@@ -190,35 +192,35 @@ $current_options = wp_parse_args(  get_option( 'wallstreet_pro_options', array()
 
 					<div class="home-portfolio-showcase-media">
 
-					
+						<a href="<?php echo get_permalink( $current_options['portfolio_post_id_four'] ); ?>">					
 
-						<img class="img-responsive home-portfolio-img" alt="Sleek &amp; Beautiful" src="<?php echo esc_url($current_options['portfolio_image_four']); ?>">
+							<img class="img-responsive home-portfolio-img" alt="Sleek &amp; Beautiful" src="<?php echo esc_url($current_options['portfolio_image_four']); ?>">				
 
-				
+							<div class="home-portfolio-showcase-overlay">
 
-						<div class="home-portfolio-showcase-overlay">
+								<div class="home-portfolio-showcase-overlay-inner">
 
-							<div class="home-portfolio-showcase-overlay-inner">
+									<div class="home-portfolio-showcase-detail">
 
-								<div class="home-portfolio-showcase-detail">
+										<?php if($current_options['portfolio_title_four']){ ?>
 
-									<?php if($current_options['portfolio_title_four']){ ?>
+										<h4><?php echo esc_html( $current_options['portfolio_title_four'] ); ?></h4>
 
-									<h4><?php echo esc_html( $current_options['portfolio_title_four'] ); ?></h4>
+										<?php } ?>
 
-									<?php } ?>
+										<?php if($current_options['portfolio_description_four']){ ?>
 
-									<?php if($current_options['portfolio_description_four']){ ?>
+										<p><?php echo esc_html( $current_options['portfolio_description_four'] );?></p>
 
-									<p><?php echo esc_html( $current_options['portfolio_description_four'] );?></p>
+										<?php } ?>
 
-									<?php } ?>
+									</div>
 
 								</div>
 
 							</div>
 
-						</div>
+						</a>
 
 					</div>
 
