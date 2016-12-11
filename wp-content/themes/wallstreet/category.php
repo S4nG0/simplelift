@@ -6,7 +6,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="page-header-title">
-					<h1><?php echo single_cat_title("Category Archive: ", false); ?></h1>		
+					<h1><?php echo single_cat_title("", false); ?></h1>		
 				</div>
 			</div>	
 		</div>

@@ -21,10 +21,10 @@ function webriti_custom_breadcrumbs() {
     if ( is_category() ) {
       $thisCat = get_category(get_query_var('cat'), false);
       if ($thisCat->parent != 0) echo get_category_parents($thisCat->parent, TRUE, ' ' . ' ');
-      echo $before . __('Archive by category ','wallstreet') . single_cat_title('', false) . '"' . $after;
+      echo $before . __(' ','wallstreet') . single_cat_title('', false) . $after;
  
     } elseif ( is_search() ) {
-      echo $before . __('Search results for ','wallstreet'). get_search_query() . '"' . $after;
+      echo $before . __('Résultats : ','wallstreet'). get_search_query() . '"' . $after;
  
     } elseif ( is_day() ) {
       echo '<a href="' . get_year_link(get_the_time('Y')) . '">' . get_the_time('Y') . '</a> ' . '&nbsp &#47; &nbsp';
@@ -82,15 +82,15 @@ function webriti_custom_breadcrumbs() {
       if ($showCurrent == 1) echo ' ' . $delimiter . ' ' . $before . get_the_title() . $after;
  
     } elseif ( is_tag() ) {
-      echo $before . __('Posts tagged ','wallstreet' ) . single_tag_title('', false) . '"' . $after;
+      echo $before . __('Posts apparentés ','wallstreet' ) . single_tag_title('', false) . '"' . $after;
  
     } elseif ( is_author() ) {
        global $author;
       $userdata = get_userdata($author);
-      echo $before . __('Articles posted by ','wallstreet') . $userdata->display_name . $after;
+      echo $before . __('Articles postés par ','wallstreet') . $userdata->display_name . $after;
  
     } elseif ( is_404() ) {
-      echo $before . __('Error 404 ','wallstreet') . $after;
+      echo $before . __('Erreur 404 ','wallstreet') . $after;
     }
  
     if ( get_query_var('paged') ) {
